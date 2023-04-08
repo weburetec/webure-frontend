@@ -70,7 +70,7 @@ const Login = () => {
         {/* login container */}
         <div className="bg-gray-100 flex rounded-2xl shadow-lg max-w-3xl p-5 items-center">
           {/*  form  */}
-          <div className="md:w-1/2 px-8 md:px-16">
+          <div className="md:w-2/2 px-8 md:px-16">
             <h2 className="font-bold text-2xl text-[#002D74] tracking-wide">
               {state.switchPage ? "Register" : "Login"}
             </h2>
@@ -152,9 +152,9 @@ const Login = () => {
           </div>
 
           {/* Image */}
-          <div className="hidden md:block w-1/2">
+          {/* <div className="hidden md:block w-1/2">
             <image className="rounded-2xl" src="/img/login.jpeg" alt="Webure Admin Login" />
-          </div>
+          </div> */}
         </div>
       </section>
     </>
