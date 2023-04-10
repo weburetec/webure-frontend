@@ -189,7 +189,7 @@ const LoginSection = ({ state, setState, dispatch }) => {
     
     
 
-    router.push("/");
+    router.push("/admin/profile");
 
     setButtonLoader(false);
   };
