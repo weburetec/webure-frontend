@@ -167,7 +167,7 @@ export default function Footer() {
                               ></path>
                             </svg>
                           </span>
-                          <p className="font-Lexend text-lg text-[#777777] pl-10">+91 806 945 3922 <br /> +91 803 786 2398</p>
+                          <p className="font-Lexend text-lg text-[#777777] pl-10">+91 803 786 2398</p>
                         </a>
                       </div>
                     </div>
