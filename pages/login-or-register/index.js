@@ -8,6 +8,7 @@ import { useRouter } from "next/router";
 import { signUp, signIn } from "../../feature/action/user/userAction";
 import { useButtonLoader, withoutAuth } from "../../hooks";
 
+
 // validation
 const signUpValidationSchema = Yup.object().shape({
   name: Yup.string().required("Full Name is required"),
@@ -183,9 +184,12 @@ const LoginSection = ({ state, setState, dispatch }) => {
   const signInHandler = async (values, submitProps) => {
     setButtonLoader(true);
     // signIn action
+    // console.log(values,"values")
     await dispatch(signIn({ ...values }));
+    
+    
 
-    router.push("/admin/dashboard");
+    router.push("/");
 
     setButtonLoader(false);
   };
@@ -288,7 +292,7 @@ const RegisterSection = ({ state, setState, dispatch }) => {
 
     // signup action
     await dispatch(signUp(form));
-
+    // router.push("/login-or-register");
     submitProps.resetForm();
   };
   return (
