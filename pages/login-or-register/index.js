@@ -185,11 +185,16 @@ const LoginSection = ({ state, setState, dispatch }) => {
     setButtonLoader(true);
     // signIn action
     // console.log(values,"values")
-    await dispatch(signIn({ ...values }));
+   const Data1 = await dispatch(signIn({ ...values }));
     
-    
-
+   if(Data1.payload.result.role == "ROLE_ADMIN"){
     router.push("/admin/profile");
+   }else{
+    router.push("/");
+   }
+   console.log(Data1.payload.result.role,"Data1")
+
+    
 
     setButtonLoader(false);
   };

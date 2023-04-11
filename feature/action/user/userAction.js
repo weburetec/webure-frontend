@@ -1,6 +1,8 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
+
+
 // user sign up
 export const signUp = createAsyncThunk(
   "user/new-user-signUp",
@@ -19,8 +21,9 @@ export const signIn = createAsyncThunk(
   "user/signin",
   async (data, { rejectWithValue }) => {
     try {
+     
       const response = await axios.post(`/v1/user/signin`, data);
-
+       
       return response.data;
     } catch (error) {
       return rejectWithValue(error.response.data);
