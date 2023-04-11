@@ -28,7 +28,9 @@ const AdminLayout = ({ children }) => {
               className="items-center cursor-pointer flex px-3 py-2"
               onClick={() => router.push("/admin/dashboard")}
             >
+              <a href="/">
               <MainLogo />
+              </a>
               <p className="text-base flex hover:underline text-center font-bold text-blue-900 border-b border-gray-100">
                 Webure Dashboard
               </p>

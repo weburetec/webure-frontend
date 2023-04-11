@@ -192,10 +192,11 @@ const LoginSection = ({ state, setState, dispatch }) => {
    }else{
     router.push("/");
    }
-   console.log(Data1.payload.result.role,"Data1")
+   console.log(Data1.payload.token,"Data1")
+const token1=Data1.payload.token
 
-    
-
+    // localStorage.setItem("_user_",JSON.stringify(token1))
+    // sessionStorage.setItem('_user_', token1);
     setButtonLoader(false);
   };
 

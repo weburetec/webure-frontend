@@ -33,6 +33,18 @@ export const getServerSideProps = withAuth(async (ctx) => {
 
   const accessToken = req.cookies._user_;
 
+
+
+  // let accessToken;
+  // if (typeof window !== "undefined") {
+  //   try {
+  //     accessToken = JSON.parse(window.localStorage.getItem("_user_"));
+  //   } catch (e) {
+  //     console.error("Failed to parse token from localStorage", e);
+  //   }
+  // }
+
+
   return {
     props: { accessToken },
   };

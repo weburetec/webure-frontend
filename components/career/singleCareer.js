@@ -214,13 +214,14 @@ const SingleCareer = () => {
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential. We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</p>
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">YOUR ROLE</p>
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">You will determines or is assigned the duties and job responsibilities that are required by the senior management team to meet the needs of their workforce management. We are serious about remote work. You can work for from anywhere.</p>
-          <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">{vacancy.jobRequirement}</p>
+          <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
+          {/* <div dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }} /> */}
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">WHAT YOUR WILL BE DOING</p>
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">Recruiting, training and developing staff Making sure that staff get</p>
-          <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">{vacancy.jobRequirement}</p>
+          <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">QUALIFICATION REQUIRED</p>
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">A degree or a professional qualification with Relevant experience.</p>
-          <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">{vacancy.jobRequirement}</p>
+          <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
         </div>
         <Formik
           enableReinitialize
