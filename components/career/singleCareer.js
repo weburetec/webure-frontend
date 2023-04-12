@@ -222,6 +222,30 @@ const SingleCareer = () => {
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">QUALIFICATION REQUIRED</p>
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">A degree or a professional qualification with Relevant experience.</p>
           <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
+          <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">JOB BENEFITS</p>
+          <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend">
+            <div className={styles.time}>
+              <button className="text-[#BE5151]">Full Time</button>
+            </div>
+            <div className={styles.level}>
+              <button className="text-[#43A552]">Mid Level</button>
+            </div>
+            <div className={styles.exp}>
+              <button className="text-[#3E6EC3]">2-3 Years</button>
+            </div>          
+          </>
+          <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">WORKING HOURS</p>
+          <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend">
+            <div className={styles.time}>
+              <button className="text-[#BE5151]">Full Time</button>
+            </div>
+            <div className={styles.level}>
+              <button className="text-[#43A552]">Mid Level</button>
+            </div>
+            <div className={styles.exp}>
+              <button className="text-[#3E6EC3]">2-3 Years</button>
+            </div>          
+          </>
         </div>
         <Formik
           enableReinitialize
