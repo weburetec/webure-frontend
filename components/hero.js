@@ -41,9 +41,9 @@ export default function Hero() {
             </div>
           </div>
           <div className="col-md-3">
-            <div className="right_img">
-              <img src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
-            </div>
+          <div className="right_img">
+  <img className="hidden sm:block md:block" src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
+</div>
           </div>
         </div>
       </div>

@@ -78,8 +78,8 @@ export default function Services(props) {
                     </div>
                   </div>
                   <div className="row-fluid-wrapper row-depth-1 row-number-9 ">
-                    
-                    <div className="grid grid-cols-4 gap-5">
+                    {/* <div className="grid grid-cols-4 gap-5"> */}
+                    <div className="grid grid-cols-1 mx-auto gap-5 md:grid-cols-2 lg:grid-cols-4">
                       <div
                         className="span3 widget-span widget-type-custom_widget possibilities-tile serviicebg1"
                         style={{}}

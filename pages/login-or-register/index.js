@@ -7,7 +7,7 @@ import { useRouter } from "next/router";
 
 import { signUp, signIn } from "../../feature/action/user/userAction";
 import { useButtonLoader, withoutAuth } from "../../hooks";
-
+import Cookies from 'js-cookie';
 
 // validation
 const signUpValidationSchema = Yup.object().shape({
@@ -196,7 +196,7 @@ const LoginSection = ({ state, setState, dispatch }) => {
 const token1=Data1.payload.token
 
     // localStorage.setItem("_user_",JSON.stringify(token1))
-    // sessionStorage.setItem('_user_', token1);
+    Cookies.set('Users', token1);
     setButtonLoader(false);
   };
 
