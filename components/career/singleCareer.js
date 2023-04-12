@@ -224,7 +224,7 @@ const SingleCareer = () => {
           <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">JOB BENEFITS</p>
           <div className="text-[#676767] text-sm text-justify tracking-wide font-Lexend">
-            <div className="grid grid-cols-1 md:grid-cols-2 mt-3">
+            <div>
               <div>
                 <div className="flex gap-3 mb-2 mt-2">
                   <div className={styles.time}>
