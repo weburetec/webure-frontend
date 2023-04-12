@@ -37,7 +37,7 @@ export function withAuth(gssp) {
     try {
       const { req, resolvedUrl } = ctx || {};
 
-      const accessToken = req.cookies._user_;
+      const accessToken = req.cookies.Users;
 
 
       // let accessToken;
@@ -96,7 +96,9 @@ export function withoutAuth(gssp) {
   return async (ctx) => {
     const { req } = ctx || {};
 
-    const accessToken = req.cookies._user_;
+    // const accessToken = req.cookies._user_;
+    const accessToken = req.cookies.Users;
+
 
 
     // let accessToken;

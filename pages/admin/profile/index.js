@@ -31,7 +31,9 @@ export default AdminProfile;
 export const getServerSideProps = withAuth(async (ctx) => {
   const { req } = ctx || {};
 
-  const accessToken = req.cookies._user_;
+  // const accessToken = req.cookies._user_;
+  const accessToken = req.cookies.Users;
+
 
 
 
