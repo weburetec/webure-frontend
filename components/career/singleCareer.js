@@ -222,6 +222,51 @@ const SingleCareer = () => {
           <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">QUALIFICATION REQUIRED</p>
           <p className="text-[#676767] text-base text-justify tracking-wide font-Lexend">A degree or a professional qualification with Relevant experience.</p>
           <div className="text-[#676767] text-base text-justify tracking-wide font-Lexend" dangerouslySetInnerHTML={{ __html: vacancy.jobRequirement }}/>
+          <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">JOB BENEFITS</p>
+          <div className="text-[#676767] text-sm text-justify tracking-wide font-Lexend">
+            <div>
+              <div>
+                <div className="flex gap-3 mb-2 mt-2">
+                  <div className={styles.time}>
+                    <button className="text-[#BE5151]">5 Days Working</button>
+                  </div>
+                  <div className={styles.level}>
+                    <button className="text-[#43A552]">No Bond</button>
+                  </div>
+                  <div className={styles.exp}>
+                    <button className="text-[#3E6EC3]">Health Insurance</button>
+                  </div>
+                  <div className={styles.time}>
+                    <button className="text-[#BE5151]">Flexible Working Hours</button>
+                  </div>
+                  <div className={styles.level}>
+                    <button className="text-[#43A552]">Movie Tickets</button>
+                  </div>
+                  <div className={styles.exp}>
+                    <button className="text-[#3E6EC3]">Team Party Weekly / Yearly Trip</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>          
+          <p className="text-[#676767] text-lg tracking-wide font-medium underline-offset-2 font-Lexend">WORKING HOURS</p>
+          <div className="text-[#676767] text-sm text-justify tracking-wide font-Lexend">
+            <div className="grid grid-cols-1 md:grid-cols-2 mt-3">
+              <div>
+                <div className="flex gap-3 mb-2 mt-2">
+                  <div className={styles.time}>
+                    <button className="text-[#BE5151]">Remote</button>
+                  </div>
+                  <div className={styles.level}>
+                    <button className="text-[#43A552]">Flexible</button>
+                  </div>
+                  <div className={styles.exp}>
+                    <button className="text-[#3E6EC3]">9:30 AM - 6:30PM</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>          
         </div>
         <Formik
           enableReinitialize
