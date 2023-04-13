@@ -54,7 +54,7 @@ export default function Example() {
             <div className="flex justify-start lg:w-0 lg:flex-1 -ml-11">
               <div className="flex col-2">
                 <div>
-                  <Link href="/Login">
+                  <Link href="/">
                     <a>
                       <div class="f_logo">
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="80px" height="80px" viewBox="0 0 50 50" enable-background="new 0 0 500 500">

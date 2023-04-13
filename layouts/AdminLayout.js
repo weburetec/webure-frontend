@@ -13,6 +13,7 @@ import Swal from "sweetalert2";
 import { MainLogo } from "../components/logo";
 import { signOut } from "../feature/action/user/userAction";
 import { menuLists } from "./menuLists";
+import Cookies from 'js-cookie';
 
 const AdminLayout = ({ children }) => {
   const router = useRouter();
@@ -101,6 +102,10 @@ const AdminLayout = ({ children }) => {
                     }).then((result) => {
                       if (result.isConfirmed) {
                         dispatch(signOut());
+                        const cookies = Cookies.get();
+for (const cookie in cookies) {
+  Cookies.remove(cookie);
+}
                         router.push("/login-or-register");
                       }
                     });
