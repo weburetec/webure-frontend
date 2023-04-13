@@ -103,9 +103,9 @@ const AdminLayout = ({ children }) => {
                       if (result.isConfirmed) {
                         dispatch(signOut());
                         const cookies = Cookies.get();
-for (const cookie in cookies) {
-  Cookies.remove(cookie);
-}
+            for (const cookie in cookies) {
+               Cookies.remove(cookie);
+                            }
                         router.push("/login-or-register");
                       }
                     });
