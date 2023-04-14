@@ -3,7 +3,7 @@ import Container from "./container";
 
 export default function Process(props) {
     return (
-        <section className="ttm-row process-section clearfix how_it_works_sec">
+        <section className="ttm-row process-section proBox clearfix how_it_works_sec">
             <div className="container">
                 <div className="row">
                     <div className="col-md-12">
