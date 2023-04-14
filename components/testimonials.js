@@ -8,7 +8,7 @@ import userThreeImg from "../public/img/user3.jpg";
 
 export default function Testimonials() {
   return (
-    <section id="testimonials" aria-label="What our customers are saying" className="py-10 sm:py-10">
+    <section id="testimonials" aria-label="What our customers are saying" className="testbox py-10 sm:py-10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl md:text-center">
           <span className="hiring">TESTIMONIALS</span>

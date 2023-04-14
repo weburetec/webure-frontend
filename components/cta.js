@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Cta() {
   return (
-      <div className="mx-auto max-w-7xl">
+      <div className="mx-auto max-w-7xl ctabox">
         <div className="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style={{}} data-hs-cos-general-type="widget" data-hs-cos-type="module">
           <section className="banner cta section-orange ">
             <div className="page-center white-text">

@@ -335,7 +335,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon5.png?width=87&amp;name=service-icon5.png"
                                             alt="service-icon5"
                                             style={{ width: "87px" }}
@@ -412,7 +413,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon6.png?width=87&amp;name=service-icon6.png"
                                             alt="service-icon6"
                                             style={{ width: "87px" }}
@@ -496,7 +498,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon7.png?width=87&amp;name=service-icon7.png"
                                             alt="service-icon7"
                                             style={{ width: "87px" }}
@@ -573,7 +576,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon8.png?width=87&amp;name=service-icon8.png"
                                             alt="service-icon8"
                                             style={{ width: "87px" }}
@@ -654,7 +658,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon9.png?width=87&amp;name=service-icon9.png"
                                             alt="service-icon9"
                                             style={{ width: "87px" }}
@@ -731,7 +736,8 @@ export default function Services(props) {
                                           data-hs-cos-general-type="widget"
                                           data-hs-cos-type="rich_text"
                                         >
-                                          <img
+                                          <img 
+                                          
                                             src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon10.png?width=87&amp;name=service-icon10.png"
                                             alt="service-icon10"
                                             style={{ width: "87px" }}
@@ -820,7 +826,7 @@ export default function Services(props) {
                         data-w="4"
                       >
                         <div
-                          className="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
+                          className="hs_cos_wrapper hs_cos_wrapper1 hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
                           style={{}}
                           data-hs-cos-general-type="widget"
                           data-hs-cos-type="module"

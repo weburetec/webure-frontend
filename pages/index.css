@@ -29,7 +29,22 @@ body{
 .relative{
     border-radius: 20px;
 }
+.tab__image{
+    width: 330px;
+    margin-left: -100px;
+}
+.hs_cos_wrapper1{
+    width: 380px;
+    margin-left: -120px;
+}
+.testbox{
+    margin-left: 120px;
+}
+.ctabox{
+margin-left: 100px;
+margin-right: -50px;
 
+}
 
   }
   
@@ -37,7 +52,7 @@ body{
 
   /* //iPadCss */
 
-@media screen and (min-width: 551px) and (max-width: 920px) {
+@media screen and (min-width: 551px) and (max-width: 930px) {
     /* Styles to be applied for screen widths between 350px and 450px */
    .ourbox{
     width: 500px;
@@ -60,4 +75,11 @@ body{
         margin-right: -20px;
        
     }
+
+
+
+
+
+
+
   }
