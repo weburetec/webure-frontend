@@ -1173,6 +1173,7 @@ h2 {
 .service_block.service-wrap .possibilities-tile.serviicebg1 {
   background-color: #fef9ef;
   padding: 20px 15px;
+  
 }
 
 .service_block.service-wrap .possibilities-tile {
@@ -1180,7 +1181,11 @@ h2 {
   background-color: #fef9ef;
   border-radius: 0.625rem;
   padding: 50px 15px;
+  
 }
+/* .service_block{
+  margin: auto;
+} */
 
 .service_block .possibilities-tile {
   padding: 1.125rem 0.375rem;

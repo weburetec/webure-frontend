@@ -1,30 +1,48 @@
 
 body{
-    background-color: aqua;
+    background-color: rgb(151, 255, 255);
 }
 
 /* //Mobile Css */
 
-@media screen and (min-width: 350px) and (max-width: 550px) {
+@media screen and (min-width: 250px ) and (max-width: 550px) {
     /* Styles to be applied for screen widths between 350px and 450px */
    .ourbox{
-    margin-top: 130px;
+    width: 400px;
+    margin-top: 80px;
+    margin-left: -70px;
    }
    .emailBox{
     display: grid;
     margin-left: -200px;
    }
-  
+  .masthead{
+  width: 500px;
+  height: 500px;
+  }
+.drivebox{
+ display: none;
+}
+.container{
+    margin-right: -50px;
+}
+.relative{
+    border-radius: 20px;
+}
+
+
   }
   
 
 
   /* //iPadCss */
 
-@media screen and (min-width: 551px) and (max-width: 770px) {
+@media screen and (min-width: 551px) and (max-width: 920px) {
     /* Styles to be applied for screen widths between 350px and 450px */
    .ourbox{
-    margin-top: 130px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 90px;
    }
    .emailBox{
     display: grid;
@@ -33,5 +51,13 @@ body{
   .img1{
     display: none;
   }
-
+  .masthead{
+    width: 950px;
+    
+    }
+   
+    .container>div{
+        margin-right: -20px;
+       
+    }
   }

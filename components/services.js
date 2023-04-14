@@ -79,10 +79,10 @@ export default function Services(props) {
                   </div>
                   
                   <div className="row-fluid-wrapper  row-depth-1 row-number-9 ">
-                    <div className="grid grid-cols-1  mx-auto gap-5 md:grid-cols-2 lg:grid-cols-4">
+                    <div className="grid  grid-cols-1 drivebox   mx-auto gap-5 md:grid-cols-2 lg:grid-cols-4">
                      
                       <div
-                        className="span3 widget-span  widget-type-custom_widget possibilities-tile serviicebg1"
+                        className="span3   widget-span  widget-type-custom_widget possibilities-tile serviicebg1"
                         style={{}}
                         data-widget-type="custom_widget"
                         data-x="0"
@@ -90,7 +90,7 @@ export default function Services(props) {
                       >
                         <div
                           id="hs_cos_wrapper_module_1597130703376814"
-                          className=" hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
+                          className="  hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
                           style={{}}
                           data-hs-cos-general-type="widget"
                           data-hs-cos-type="module"
