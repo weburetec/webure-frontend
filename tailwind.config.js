@@ -27,6 +27,7 @@ module.exports = {
       notoSans: ["Noto Sans", ...defaultTheme.fontFamily.sans],
       /*stock: [defaultTheme.fontFamily.sans],*/
     },
+   
   },
   experimental: {
     nextScriptWorkers: true,

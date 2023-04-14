@@ -1,0 +1,37 @@
+
+body{
+    background-color: aqua;
+}
+
+/* //Mobile Css */
+
+@media screen and (min-width: 350px) and (max-width: 550px) {
+    /* Styles to be applied for screen widths between 350px and 450px */
+   .ourbox{
+    margin-top: 130px;
+   }
+   .emailBox{
+    display: grid;
+    margin-left: -200px;
+   }
+  
+  }
+  
+
+
+  /* //iPadCss */
+
+@media screen and (min-width: 551px) and (max-width: 770px) {
+    /* Styles to be applied for screen widths between 350px and 450px */
+   .ourbox{
+    margin-top: 130px;
+   }
+   .emailBox{
+    display: grid;
+    margin-left: -200px;
+   }
+  .img1{
+    display: none;
+  }
+
+  }

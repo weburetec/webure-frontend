@@ -66,8 +66,8 @@ export default function Services(props) {
                   data-x="0"
                   data-w="12"
                 >
-                  <div className="row-fluid-wrapper row-depth-1 row-number-8 ">
-                    <div className="container p-8 mx-auto xl:px-0 flex w-full flex-col mt-4 items-center justify-center text-center">
+                  <div className="ourbox row-fluid-wrapper row-depth-1 row-number-8 ">
+                    <div className="container p-8 mx-auto xl:px-0 flex w-full flex-col  items-center justify-center text-center">
                       <span className="hiring">OUR SERVICES</span>
                       <h2 className="font-Lexend text-4xl font-bold">
                         Digital Solutions That Drive Change
@@ -77,11 +77,12 @@ export default function Services(props) {
                       </p>
                     </div>
                   </div>
-                  <div className="row-fluid-wrapper row-depth-1 row-number-9 ">
-                    {/* <div className="grid grid-cols-4 gap-5"> */}
-                    <div className="grid grid-cols-1 mx-auto gap-5 md:grid-cols-2 lg:grid-cols-4">
+                  
+                  <div className="row-fluid-wrapper  row-depth-1 row-number-9 ">
+                    <div className="grid grid-cols-1  mx-auto gap-5 md:grid-cols-2 lg:grid-cols-4">
+                     
                       <div
-                        className="span3 widget-span widget-type-custom_widget possibilities-tile serviicebg1"
+                        className="span3 widget-span  widget-type-custom_widget possibilities-tile serviicebg1"
                         style={{}}
                         data-widget-type="custom_widget"
                         data-x="0"
@@ -89,7 +90,7 @@ export default function Services(props) {
                       >
                         <div
                           id="hs_cos_wrapper_module_1597130703376814"
-                          className="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
+                          className=" hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text"
                           style={{}}
                           data-hs-cos-general-type="widget"
                           data-hs-cos-type="module"
@@ -118,7 +119,7 @@ export default function Services(props) {
                               <h3 className="font-Lexend font-semibold mb-3 text-xs">
                                 Product Designing
                               </h3>
-                              <p className="font-Lexend text-base text-justify">
+                              <p className=" font-Lexend text-base text-justify">
                                 Building and supercharging your web, mobile
                                 &amp; digital products from design to delivery
                                 from scratch.
@@ -263,6 +264,7 @@ export default function Services(props) {
                           </span>
                         </div>
                       </div>
+
                     </div>
                   </div>
                 </div>

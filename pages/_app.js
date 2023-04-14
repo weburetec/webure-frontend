@@ -10,6 +10,7 @@ import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import { store } from "../store";
 
 // baseURL is the url that will be used for all requests
+import "./index.css"
 axios.defaults.baseURL = process.env.NEXT_PUBLIC_APP_BASEURL;
 axios.defaults.withCredentials = true;
 

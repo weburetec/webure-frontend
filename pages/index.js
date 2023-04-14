@@ -16,6 +16,7 @@ import Services from "../components/services";
 import Process from "../components/process";
 import Autoscroll from "../components/faqcomponent";
 import Footnote from "../components/footer";
+
 //import dynamic from "next/dynamic";
 
 // const Video = dynamic(() => import("../components/video"));
