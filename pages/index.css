@@ -1,7 +1,7 @@
 
-body{
+/* body{
     background-color: rgb(151, 255, 255);
-}
+} */
 
 /* //Mobile Css */
 
@@ -23,6 +23,11 @@ body{
 .drivebox{
  display: none;
 }
+.container1{
+    margin-right: -120px;
+    margin-left: 50px;
+    width: 400px;
+}
 .container{
     margin-right: -50px;
 }
@@ -35,24 +40,51 @@ body{
 }
 .hs_cos_wrapper1{
     width: 380px;
-    margin-left: -120px;
+    margin-left: -150px;
 }
 .testbox{
     width: 400px;
     margin-left: 80px;
 }
 .ctabox{
-width: 400px;
-margin-left: 80px;
+width: 500px;
+margin-left: 20px;
 margin-right: -50px;
-justify-content: center;
+
 
 }
 .proBox{
 margin-left: 50px;
 }
-
-
+.page-center{
+    margin-left: 20px;
+    margin-right: -50px;
+}
+.title-header{
+    margin-left: -80px;
+}
+.relative1{
+    width: 450px;
+    margin-left: 50px;
+    margin-right: -100px;
+    border: 15px;
+    
+}
+.buildBox{
+    margin-left: 120px;
+}
+.companyBox{
+    margin-left: 5px;
+    margin-top: 50px;
+}
+.branchBox{
+    margin-top: -120px;
+    margin-bottom: 50px;
+    
+}
+.branchBox1{
+    width: 300px;
+}
 
   }
   
@@ -90,6 +122,18 @@ margin-left: 50px;
     .proBox{
         margin-left: 100px;
         margin-right: -50px;
+    }
+    .ctabox{
+        width: 850px;
+        margin-left: 50px;
+    }
+    .relative1{
+margin-left: 70px;
+width: 820px;
+border-radius: 15px;
+    }
+    .buildBox{
+        margin-left: 120px;
     }
 
 

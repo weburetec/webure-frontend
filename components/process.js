@@ -9,7 +9,7 @@ export default function Process(props) {
                     <div className="col-md-12">
                         <div className="section-title with-desc clearfix">
                             <div className="container p-8 mx-auto xl:px-0 flex w-full flex-col mt-4 items-center justify-center text-center">
-                                <div className="title-header title-header-custom">
+                                <div className="title-header title-header1 title-header-custom">
                                     <span className="hiring font-Lexend">HOW IT WORKS</span>
                                     <h2 className='font-Lexend font-semibold'>Check out our work process</h2>
                                 </div>

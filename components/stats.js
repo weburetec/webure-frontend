@@ -6,7 +6,7 @@ import Script from 'next/script';
 export default function Process(props) {
     return (
         <section className="products-section">
-            <div className="container">           
+            <div className="container container1">           
                 <div className="row-fluid-wrapper row-depth-1 row-number-35 ">
                 <br />
                 <br />
