@@ -9,17 +9,17 @@ import mobilePng from "../assets/png/mobile.png";
 import Image from "next/image";
 
 const solutions = [
-  {name: "About Company", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
-  {name: "Our Team", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
+  {name: "Technologies", description: "Get a better understanding of where your traffic is coming from.", href: "/hiretalent", icon: ChartBarIcon,},
+  {name: "Clientele", description: "Get a better understanding of where your traffic is coming from.", href: "/clientele", icon: ChartBarIcon,},
 /*  {name: "Experts", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,}, 
   {name: "Our Partners", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
   {name: "Development Process", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
   {name: "Quality Management", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
   {name: "Sustainibiliy Policy", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,},
   {name: "Our Policy", description: "Get a better understanding of where your traffic is coming from.", href: "#", icon: ChartBarIcon,}, */
-  {name: "Hire Talent", description: "Speak directly to your customers in a more meaningful way.", href: "#", icon: CursorClickIcon,},
-  {name: "Career", description: "Your customers' data will be safe and secure.", href: "#", icon: ShieldCheckIcon,},
-  {name: "ROI Stories", description: "Connect with third-party tools that you're already using.", href: "#", icon: ViewGridIcon,},
+  {name: "Insights", description: "Speak directly to your customers in a more meaningful way.", href: "/clientele", icon: CursorClickIcon,},
+  {name: "Career", description: "Your customers' data will be safe and secure.", href: "/career", icon: ShieldCheckIcon,},
+  {name: "Contact Us", description: "Connect with third-party tools that you're already using.", href: "/contactus", icon: ViewGridIcon,},
   {name: "Media Coverage", description: "Build strategic funnels that will drive your customers to convert", href: "#", icon: RefreshIcon,},
 ];
 const callsToAction = [
