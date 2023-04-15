@@ -6,7 +6,7 @@ import Script from 'next/script';
 export default function Process(props) {
     return (
         <div className="container">
-            <div className="container pt-8">
+            <div className="container pt-8 digitalBox1">
 		        <div className="font-Lexend text-4xl font-bold text-center">Digital<span className="font-Lexend text-4xl font-bold"> Transformations</span></div>
                 <p className="font-Lexend text-base text-center text-gray-500">Our mission is to help you create human-centric digital experiences that capture the hearts and minds of your customers.</p>
 				<p className=" sub_innovative_sec text-center"> </p>
@@ -33,7 +33,7 @@ export default function Process(props) {
                             </div>
 		                </div>
 				    </div>
-			        <div className="col-sm-6 transform_col pt-10">
+			        <div className="col-sm-6 digitalBox transform_col pt-10">
     					<div className="choose_us pl-10">
 					        <div className="row border1">
 					            <div className="p-5 col-sm-6 border-right">

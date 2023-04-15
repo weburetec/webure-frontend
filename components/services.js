@@ -348,7 +348,7 @@ export default function Services(props) {
                                       </div>
                                     </div>
                                     <div
-                                      className="span10 widget-span widget-type-custom_widget section_Wrapper"
+                                      className="span10 span123 widget-span widget-type-custom_widget section_Wrapper"
                                       style={{}}
                                       data-widget-type="custom_widget"
                                       data-x="2"
@@ -798,7 +798,7 @@ export default function Services(props) {
           </div>
         </div>
       </div>
-      <div className="container">
+      <div className="container container3">
         <div className="row-fluid ">
           <div
             className="span12 widget-span widget-type-cell pad-topp pad-bot tech-pattern"

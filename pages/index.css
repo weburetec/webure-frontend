@@ -1,6 +1,6 @@
-
-/* body{
-    background-color: rgb(151, 255, 255);
+/* 
+body{
+    background-color: rgb(213, 248, 248);
 } */
 
 /* //Mobile Css */
@@ -8,7 +8,7 @@
 @media screen and (min-width: 250px ) and (max-width: 550px) {
     /* Styles to be applied for screen widths between 350px and 450px */
    .ourbox{
-    width: 400px;
+    width: 430px;
     margin-top: 80px;
     margin-left: -70px;
    }
@@ -31,6 +31,10 @@
 .container{
     margin-right: -50px;
 }
+.container3{
+    width: 250px;
+margin-right: -1px;
+}
 .relative{
     border-radius: 20px;
 }
@@ -43,8 +47,8 @@
     margin-left: -150px;
 }
 .testbox{
-    width: 400px;
-    margin-left: 80px;
+    width: 420px;
+    margin-left: 60px;
 }
 .ctabox{
 width: 500px;
@@ -85,6 +89,18 @@ margin-left: 50px;
 .branchBox1{
     width: 300px;
 }
+.digitalBox{
+    width: 450px;
+    margin-left: -40px;
+    margin-top: 50px;
+}
+.digitalBox1{
+    width: 400px;
+}
+
+
+
+
 
   }
   
