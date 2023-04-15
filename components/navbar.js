@@ -94,7 +94,7 @@ export default function Example() {
             </div>            
             <Popover.Group as="nav" className="hidden md:flex space-x-10" style={{alignItems:"baseline"}}>
               <div>
-                <div class="group inline-block relative">
+                <div class="group inline-block abouthide relative">
                   <button className="text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]">
                     <span className="mr-1 hover-underline-animation font-Lexend text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]" style={{ color: "text-[#581C87]" }}>About Us</span>
                     <svg className="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
@@ -177,7 +177,7 @@ export default function Example() {
                   </div>
                 </div>
               </div>
-              <Popover className="relative">
+              <Popover className=" relative">
                 {({ open }) => {return (
                 <>
                   <div onMouseLeave={onMouseLeave.bind(null, open)}>
@@ -276,12 +276,18 @@ export default function Example() {
                 </>
                 );}}
               </Popover>
-              <a href="/hiretalent" className="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900">Technologies</a>
-              <a href="./clientele" className="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900">Clientele</a>
-              <a href="./clientele" className="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900">Insights</a>
-              <a href="/career" className="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900">Careers</a>
-              <a href="./contactus" className="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900">Contact Us</a>
-              <a href="/login-or-register" className=" font-Lexend text-base ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-900">Get a Quote</a>
+              <div class="flex flex-col sm:flex-row justify-between items-center px-4 py-2">
+ 
+  <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+    <a href="/hiretalent" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Technologies</a>
+    <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Clientele</a>
+    <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
+    <a href="/career" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Careers</a>
+    <a href="./contactus" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Contact Us</a>
+    <a href="/login-or-register" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800 mt-4 sm:mt-0">Get a Quote</a>
+  </div>
+</div>
+
             </Popover.Group>
           </div>
         </div>

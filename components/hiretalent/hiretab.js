@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Hiretab() {
   return (
-    <div className="container mx-auto px-4 gap-2 p-4">
-      <div className="flex gap-5 flex-wrap justify-center">
+    <div className="container  mx-auto px-4 gap-2 p-4">
+      <div className="flex costBox  gap-5 flex-wrap justify-center">
         <div className="w-1/6 border border-[#c3bebc] p-2">
           <image src="https://cdn0.iconfinder.com/data/icons/social-media-2049/512/linkedin-256.png" alt="networking" />
           <p className="font-Lexend text-sm text-center">Network</p>
@@ -30,7 +30,7 @@ export default function Hiretab() {
           <p className="font-Lexend text-xl font-semibold text-center">5+ Timezones</p>
         </div>
       </div>
-      <div className="mx-auto max-w-2xl md:text-center">
+      <div className="mx-auto costBox2 max-w-2xl md:text-center">
         <h4 className="w-full text-4xl font-Lexend font-bold text-gray-500 leading-snug">Hire India’s top remote talent</h4>
         <p className="contactsectiondescription -mt-6 font-base text-justify text-gray-500 font-Lexend text-25 font-weight-400">A hiring platform that helps remote-first companies hire 10X faster & more efficiently. A network of 50,000+ talents, pre-vetted against their technical capabilities, language proficiency and behavioral skills.</p>
         <div className="flex gap-4 px-20 pt-10">

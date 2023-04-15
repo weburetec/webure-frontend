@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Talentprofile() {
   return (
-    <div className="px-20 font-Lexend">
+    <div className="px-20 font-Lexend techstackBox">
         <div className="container mx-auto px-4 gap-2 p-10">
             <div className="mx-auto max-w-2xl md:text-center">
                 <span className="hiring">#TECHSTACKS</span>
@@ -141,9 +141,9 @@ export default function Talentprofile() {
                 </div>
             </div>
         </div>
-        <p className="mb-0 net-desc">Get access to the most in-demand, exclusive network of talents covering 100+ skillsets in the Marketing &amp; technology industry.</p>
+        <p className="mb-0 net-desc getptag">Get access to the most in-demand, exclusive network of talents covering 100+ skillsets in the Marketing &amp; technology industry.</p>
         <br />
-        <div className="container mx-auto px-4 gap-2 p-10">
+        <div className="container mx-auto whyBox px-4 gap-2 p-10">
             <div className="mx-auto max-w-2xl md:text-center">
                 <span className="hiring">WHY WEBURE TECHNOLOGIES</span>
                 <h4 className="w-full text-4xl font-Lexend font-bold text-gray-500 leading-snug">Talent Profile</h4>

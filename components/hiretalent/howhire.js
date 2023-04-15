@@ -3,7 +3,7 @@ import Container from "../container";
 
 export default function Howhire() {
   return (
-    <section className="overflow-hidden">
+    <section className="overflow-hidden HowhireBox">
       <div className="container mx-auto px-4 gap-2 p-10">
         <div className="mx-auto max-w-2xl md:text-center">
           <span className="hiring">WHY WEBURE TECHNOLOGIES</span>

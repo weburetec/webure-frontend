@@ -9,28 +9,28 @@ const Tabs = ({ color }) => {
     <br />
     <div className="container px-20 flex flex-wrap">
 
-    <div className="toggle-box">
+    <div className="toggle-box btnBox1">
       <div className="sunsetred">
-        <div className="cont-btns sunsetred"> 
-          <a className="cta-button myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="talent" onClick={e => {e.preventDefault();setOpenTab(1);}} data-toggle="tab" href="#link1" role="tablist">Hire a Talent</a>
+        <div className=" cont-btns sunsetred"> 
+          <a className="font-Lexend text-base ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-900 my-4 myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="talent" onClick={e => {e.preventDefault();setOpenTab(1);}} data-toggle="tab" href="#link1" role="tablist">Hire a Talent</a>
         </div>
       </div>
       <div className="sunsetred">
-        <div className="app-btns sunsetred"> 
-          <a className="cta-button myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="apply" onClick={e => {e.preventDefault(); setOpenTab(2);}} data-toggle="tab" href="#link2" role="tablist">Apply for a Job</a>
+        <div className=" app-btns sunsetred"> 
+          <a className="font-Lexend text-base ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-900 my-4 myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="apply" onClick={e => {e.preventDefault(); setOpenTab(2);}} data-toggle="tab" href="#link2" role="tablist">Apply for a Job</a>
         </div>
       </div>
       <div className="sunsetred">
-        <div className="st-btns sunsetred"> 
-          <a className="cta-button myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="project" onClick={e => { e.preventDefault(); setOpenTab(3);}} data-toggle="tab" href="#link3" role="tablist">Start A Project</a>
+        <div className=" st-btns sunsetred"> 
+          <a className="font-Lexend text-base ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-900 my-4 myanchor sunsetred font-Lexend text-2xl font-normal" data-sec="project" onClick={e => { e.preventDefault(); setOpenTab(3);}} data-toggle="tab" href="#link3" role="tablist">Start A Project</a>
         </div>
       </div>
     </div>
 
 
 
-      <div className="container px-10">
-          <div className="relative flex flex-col min-w-0 break-words border border-[#c3bebc] bg-white w-full mb-6">
+      <div className="container px-10 ">
+          <div className="relative flex hireform flex-col min-w-0 break-words border border-[#c3bebc] bg-white w-full mb-6">
             <div className="px-4 py-5 flex-auto">
               <div className="tab-content tab-space">
                 <div className={openTab === 1 ? "block px-10" : "hidden"} id="link1">

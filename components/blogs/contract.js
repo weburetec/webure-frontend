@@ -128,7 +128,7 @@ const BlogContract = () => {
                 <form className="relative w-full mt-6 mb-2">
                    <div className="name">
                       <label htmlFor="name"></label>
-                      <input type="text" placeholder="My name is" name="name" id="name_input" required />
+                      <input type="text" placeholder="My name is " name="name" id="name_input" required />
                    </div>
                    <div className="email">
                       <label htmlFor="email"></label>
@@ -143,7 +143,7 @@ const BlogContract = () => {
                       <textarea name="message" placeholder="Hey, I'm Nitin, Founder of Webure Technologies. I am exited you are here & would love to speak" id="message_input" cols="30" rows="2" required></textarea>
                    </div>
                    <div className="relative">
-                      <button className="w-full font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
+                      <button className=" w-full font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
                    </div>
                 </form>
                 </div>

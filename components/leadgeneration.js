@@ -2,7 +2,7 @@ import Container from "./container";
 
 export default function LeadForm() {
   return (
-   <div className="masthead ">
+   <div className="masthead contactFromBox">
       <div className="container">
          <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
             <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
@@ -99,6 +99,7 @@ export default function LeadForm() {
                   <a href="#inquire_now" className="font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">View Our Current Openings</a>
                </div>
             </div>
+
             <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg2 p-5">
             <div className="flex flex-col items-start justify-between w-full lg:pt-18 lg:flex-row">
                <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
@@ -108,7 +109,7 @@ export default function LeadForm() {
                   <form className="relative w-full mt-6 mb-2">
                      <div className="name">
                         <label htmlFor="name"></label>
-                        <input type="text" placeholder="My name is" name="name" id="name_input" required />
+                        <input type="text" placeholder="My name is " name="name" id="name_input" required />
                      </div>
                      <div className="email">
                         <label htmlFor="email"></label>
@@ -123,7 +124,7 @@ export default function LeadForm() {
                         <textarea name="message" placeholder="Hey, I'm Nitin, Founder of Webure Technologies. I am exited you are here & would love to speak" id="message_input" cols="30" rows="2" required></textarea>
                      </div>
                      <div className="relative">
-                        <button className="w-full font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
+                        <button className="w-full font-base  text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
                      </div>
                   </form>
                   </div>
