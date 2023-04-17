@@ -41,7 +41,7 @@ const lists = [
 ];
 const JobsCareer = () => {
   return (
-    <div className="container">
+    <div className="container ">
     <div className="px-2 md:px-6 mt-4 ">
       {/* Jobs that become careers */}
       <h3 className="text-[#A22DEA] text-4xl text-opacity-50 font-bold tracking-wider">

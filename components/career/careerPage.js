@@ -35,7 +35,7 @@ const CareerPage = () => {
     <div className="container">
     <div className="px-2 md:px-6 mt-4 md:mt-12 mb-6 md:mb-12">
       {/*  */}
-      <div className="w-full [border:1px_solid_#B8B8B8] p-4">
+      <div className="w-full jobBox1 [border:1px_solid_#B8B8B8] p-4">
         <div className="flex justify-between">
           <div className="bg-[#A22DEA] bg-opacity-30 px-3 py-1">
             <button className="text-[#676767] font-Lexend font-medium tracking-wider hover:text-black duration-300">
@@ -256,7 +256,7 @@ const CareerPage = () => {
           </div>
         </div>
       </div>
-      <div className="text-center">
+      <div className="text-center jobBox1">
         <div className="[border:1px_solid_#F3F5F6] rounded-xl p-4 mt-4 md:mt-6 text-center">
           <p className="font-Lexend font-normal text-xl">If you don&apos;t see anything that fits your skills, email us on <span>hr@weburetech.com</span> with more information about you. </p>
         </div>

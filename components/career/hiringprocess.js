@@ -4,13 +4,13 @@ import React from "react";
 const HiringProcess = () => {
   return (
     <div>
-      <div>
+      <div className="jobBox12">
         <h2 className="w-full text-4xl text-center font-Lexend font-bold text-gray-700 leading-snug">Perks & Benefits</h2>
         <p className="w-full text-xl text-center font-Lexend text-gray-700 leading-snug -mt-6">We&apos;re always on the lookout for talented and passionate individuals to join our <span className="text-purple-900">Webure</span> team.</p>
         <br />
-        <div className="container flex px-2 gap-4 md:px-6 mt-4">
-            <div className="w-1/3 p-2">
-                <div>
+        <div className="container flex jobBox21 px-2 gap-4 md:px-6 mt-4">
+            <div className="w-1/3   p-2">
+                <div className="jobBox2">
                     <div className="flex items-start space-x-3 py-6">
                         <input type="checkbox" className="border-gray-300 rounded h-5 w-5" checked/>
                         <div className="flex flex-col">
@@ -36,8 +36,8 @@ const HiringProcess = () => {
                     </div>
                 </div>            
             </div>
-            <div className="w-1/3 p-2">
-                <div>
+            <div className="w-1/3  p-2">
+                <div className="jobBox2">
                     <div className="flex items-start space-x-3 py-6">
                         <input type="checkbox" className="border-gray-300 rounded h-5 w-5" checked />
 
@@ -65,18 +65,22 @@ const HiringProcess = () => {
                     </div>              
                 </div>            
             </div>
-            <div className="w-1/3 p-2">
-                <div style={{backgroundImage:"URL(https://www.freshconsulting.com/wp-content/uploads/fly-images/797/olena-sergienko-dIMJWLx1YbE-unsplash-scaled-e1579211513221-scaled-1-1300x9999.jpg)",backgroundRepeat:"no-repeat", backgroundSize:"cover", borderRadius:"20px"}} >
-                    <p style={{height:"500px"}}></p>
+            <div className="w-1/3  p-2 ">
+                <div className="hideimg1" style={{backgroundImage:"URL(https://www.freshconsulting.com/wp-content/uploads/fly-images/797/olena-sergienko-dIMJWLx1YbE-unsplash-scaled-e1579211513221-scaled-1-1300x9999.jpg)",backgroundRepeat:"no-repeat", height:"600px", backgroundSize:"cover", borderRadius:"20px"}} >
+              
+{/* <img className="hideimg1 "  style={{ height:"600px", borderRadius:"20px"}} src="https://www.freshconsulting.com/wp-content/uploads/fly-images/797/olena-sergienko-dIMJWLx1YbE-unsplash-scaled-e1579211513221-scaled-1-1300x9999.jpg"/> */}
+                    {/* <p style={{height:"500px"}}></p> */}
                 </div>            
             </div>
         </div>
       </div>
-      <div className="bg16"></div>
+      <div className="bg16 "></div>
       <br />
       <br />
+      <div className="jobBox12">
       <h2 className="w-full text-4xl text-center font-Lexend font-bold text-gray-700 leading-snug">Our Hiring Process</h2>
       <p className="w-full text-xl text-center font-Lexend text-gray-700 leading-snug -mt-6">Here’s a look at what you can expect when you apply for a job at Webure Technologies. </p>
+      </div>
       <div className="flex px-2 gap-2 md:px-2 mt-4 bg16">
         <div className="w-1/2 px-5">             
             <image style={{textalign:"right"}} src="https://growzilla.co/images/pana5.png.webp" alt="Webure Technologies" loading="lazy" />
@@ -84,7 +88,7 @@ const HiringProcess = () => {
         <div className="w-1/2 p-5 -ml-20">
             <div className="max-w-screen-xl mx-auto px-5 bg-white min-h-sceen">
 
-                <div className="grid divide-y divide-neutral-200 max-w-xl mx-auto">
+                <div className="grid divide-y divide-neutral-200 jobBox121 max-w-xl mx-auto">
                     <div className="py-5">
                         <details className="group">
                             <summary className="flex justify-between items-center font-medium cursor-pointer list-none">
@@ -158,7 +162,7 @@ const HiringProcess = () => {
       <br />
       <br />
       <div className="container">
-      <div className="flex px-2 gap-4 md:px-6 mt-4">
+      <div className="flex benefitsBox px-2 gap-4 md:px-6 mt-4">
         <div className="w-1/2 p-2">
             <h4 className="text-xl font-Lexend font-bold">Jobs offered by Webure Technologies</h4>
             <p className="font-Lexend text-lg text-gray-500">Webure Technologies offers a wide range of career opportunities for those looking for</p>            
@@ -195,11 +199,13 @@ const HiringProcess = () => {
       </div>
       </div>
       <br />
+      <div className="ourculBox">
       <h2 className="w-full text-4xl text-center font-Lexend font-bold text-gray-700 leading-snug">Our Culture</h2>
       <p className="w-full text-xl text-center font-Lexend text-gray-700 leading-snug -mt-6">We reflect our values and beliefs through the rituals that we follow at Webure</p>
+      </div>
       <br />
       <div className="container">
-      <div className="flex px-2 md:px-2 mt-4">
+      <div className="flex px-2 ourculBox1 md:px-2 mt-4">
         <div className="w-1/3 px-5">
             <image src="https://growzilla.co/images2/carres1.png.webp" alt="Webure Technologies" loading="lazy" />
             <div className="text-center"><p>Team Meet Up </p></div>        

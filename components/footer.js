@@ -10,7 +10,7 @@ export default function Footer() {
   const navigation = ["Product", "Features", "Pricing", "Company", "Blog"];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
-    <div className="relative1">
+    <div className="relative1  relBox">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 225">
         <path
           fill="#3D3D3D"
@@ -510,21 +510,21 @@ export default function Footer() {
                       <p className="text-sm font-Lexend text-[#995FC6] font-normal">Bengaluru</p>
                       <p className="text-[#777777] text-[14px] font-Lexend">Embassy Techvillage, HD-073 We Work Bellandur Bangalore Karnataka</p>
                     </div>
-                    {/* <div className="w-1/3 border-solid border-2 border-[#777777] p-2">
+                    <div className="w-1/3 branchBox1 border-solid border-2 border-[#777777] p-2">
                     <p className="text-lg md:text-xl text-white font-normal font-Lexend">USA</p>
                       <p className="text-sm font-Lexend text-[#995FC6] font-normal">New York</p>
                       <p className=" text-[#777777] text-[14px] md:text-md font-Lexend">1 World Trade Centre, 285 Fulton Street Suite 8500 New York City, New York</p>
                     </div>                    
-                    <div className="w-1/3 border-solid border-2 border-[#777777] p-2">
+                    <div className="w-1/3 branchBox1 border-solid border-2 border-[#777777] p-2">
                     <p className="text-lg md:text-xl text-white font-normal font-Lexend">United Kingdom</p>
                       <p className="text-sm font-Lexend text-[#995FC6] font-normal">London</p>
                       <p className="text-[#777777] text-[14px] md:text-md font-Lexend">Level 30 Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AB, UK</p>
                     </div>
-                    <div className="w-1/3 border-solid border-2 border-[#777777] p-2">
+                    <div className="w-1/3 branchBox1 border-solid border-2 border-[#777777] p-2">
                     <p className="text-lg md:text-xl text-white font-normal font-Lexend">Australia</p>
                       <p className="text-sm font-Lexend text-[#995FC6] font-normal">Sydney</p>
                       <p className="text-[#777777] text-[14px] md:text-md font-Lexend">Level 24, Three International Towers Barangaroo Avenue, Sydney Australia</p>
-                    </div> */}
+                    </div>
                   </div>
                 </div>
               </div>

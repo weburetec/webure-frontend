@@ -20,7 +20,7 @@ const BlogTestimonial = () => {
     },
   };
   return (
-    <div className="px-6 font-Ubuntu font-normal">
+    <div className="px-6 font-Ubuntu countryBox font-normal">
       <p className="text-[#F17216] font-Lexend font-normal text-sm ml-20">
         TESTIMONIAL
       </p>

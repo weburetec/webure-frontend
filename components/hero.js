@@ -17,7 +17,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <div className="masthead h-[381px] bg-[#a7a4a4] relative py-20">
+    <div className="masthead  h-[381px] bg-[#a7a4a4] relative py-20">
       <div className="container h-100">
         <div className="row">
           <div className="col-md-3">

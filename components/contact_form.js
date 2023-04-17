@@ -2,9 +2,9 @@ import Container from "./container";
 
 export default function Contact_Form() {
   return (
-   <div className="masthead   ">
-      <div className="container">
-         <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
+   <div className="masthead formcont1  ">
+      <div className="container ">
+         <div className="row-fluid  row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
             <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
                <div className="flex opacity-20 -m-10">
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 60px 60px" enableBackground="new 0 0 100.25 100.25">
@@ -99,7 +99,7 @@ export default function Contact_Form() {
                   <a href="#inquire_now" className="font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">View Our Current Openings</a>
                </div>
             </div>
-            <div className="span7  widget-span widget-type-custom_widget possibilities-tile serviicebg2 p-5">
+            <div className="span7   widget-span  widget-type-custom_widget possibilities-tile serviicebg2 p-5">
             <div className="flex flex-col items-start justify-between w-full lg:pt-18 lg:flex-row">
                <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
                   <div className="relative  z-10 flex flex-col items-start justify-start p-10 bg-white shadow-2xl rounded-xl">
