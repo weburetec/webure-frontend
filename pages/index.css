@@ -20,8 +20,9 @@ body{
     margin-left: -10px;
    }
    .banner_heading{
-    width: 400px;
-    margin-left: 50px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 100px;
    }
    .emailBox{
     display: grid;
