@@ -8,7 +8,7 @@ import userThreeImg from "../public/img/user3.jpg";
 
 export default function CRM() {
     return (
-        <section id="crm" aria-label="What our customers are saying" className="py-10 sm:py-10">
+        <section id="crm" aria-label="What our customers are saying" className="py-10 crmBox sm:py-10">
             <div className="container">
                 <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
                     <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">

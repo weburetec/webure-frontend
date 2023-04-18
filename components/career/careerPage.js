@@ -32,7 +32,7 @@ const CareerPage = () => {
   }, []);
 
   return (
-    <div className="container">
+    <div className="container ">
     <div className="px-2 md:px-6 mt-4 md:mt-12 mb-6 md:mb-12">
       {/*  */}
       <div className="w-full jobBox1 [border:1px_solid_#B8B8B8] p-4">
@@ -139,7 +139,7 @@ const CareerPage = () => {
         </div>
       </div>
       {/* Jobs */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 mt-2 md:mt-2">
+      <div className="grid dataContainer grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 mt-2 md:mt-2">
         {data?.map((activeVacancy) => (
           <div
             className="[border:1px_solid_#B8B8B8] p-4 mt-4 md:mt-6"
@@ -201,7 +201,7 @@ const CareerPage = () => {
       </div>
     </div>
     <div>
-      <div className="px-2 md:px-6 mt-4 md:mt-12 mb-2 md:mb-12">
+      <div className="px-2 dataContainer md:px-6 mt-4 md:mt-12 mb-2 md:mb-12">
         <hr style={{borderbottom: "2px dashed #231F2033"}} />
         <div className="flex">
           <h1 className="text-2xl font-semibold text-gray-400 font-Lexend">Contractual Jobs</h1>   

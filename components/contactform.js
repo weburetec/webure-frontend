@@ -2,8 +2,8 @@ import Container from "./container";
 
 export default function ContactForm() {
   return (
-   <div className="masthead" style={{backgroundColor:"rgb(242, 233, 253)"}}>
-      <div className="container">
+   <div className="masthead " style={{backgroundColor:"rgb(242, 233, 253)"}}>
+      <div className="container ">
          <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
             <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
                <div className="flex opacity-20 -m-10">
@@ -17,6 +17,8 @@ export default function ContactForm() {
                      </g>
                   </svg>
                </div>
+               
+               <div className="contactboxfor">
                <h1 className="banner_headingcontact">
                   <span className="span-txt">Let&apos;s</span>
                   <span style={{color:"rgb(88, 28, 135)"}}>Talk</span>
@@ -26,7 +28,8 @@ export default function ContactForm() {
                <br />
                <h3 className="contactsectiondescription font-semibold text-justify text-gray-500 font-Lexend text-25 font-weight-700">Discuss your Project</h3>
                <p className="font-base text-justify text-gray-500 font-Lexend">Avail our best IT Solutions that suits your requirements!</p>
-               <div className="contact-info-footer margin-30px-bottom">
+               </div>
+               <div className="contact-info-footer contactboxfor1 margin-30px-bottom">
                   <div className="icon-box width-100 sm-margin-lr-auto xs-width-100 last-paragraph-no-margin border-none">
                      <div className="vertical-align-middle display-flex-center display-block padding-10px-tb">
                         <div>
@@ -62,10 +65,12 @@ export default function ContactForm() {
                      </div>
                   </div>
                </div>
+               <div className="contactboxfor1">
 					<h3 className="contactsectiondescription font-semibold text-justify text-gray-500 font-Lexend text-25 font-weight-700">Want to Join our Squad?</h3>
                <p className="font-base text-justify text-gray-500 font-Lexend">We are driven to simplify real-world challenges. Are you too?</p>
                <p className="font-base text-justify text-gray-500 font-Lexend">If yes, then this is a right place for you. Contact our HR at:</p>
-               <div className="contact-info-footer padding-10px-top">
+               </div>
+               <div className="contact-info-footer contactboxfor1 padding-10px-top">
                   <div className="icon-box width-100 sm-margin-lr-auto xs-width-100 last-paragraph-no-margin border-none">
                      <div className="vertical-align-middle display-flex-center display-block padding-10px-tb">
                         <div>
@@ -104,8 +109,8 @@ export default function ContactForm() {
                   <a href="#inquire_now" className="font-base text-justify text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">View Our Current Openings</a>
                </div>
             </div>
-            <div className="span7 widget-span widget-type-custom_widget possibilities-tile serviicebg2 p-5">
-            <div className="flex flex-col items-start justify-between w-full lg:pt-18 lg:flex-row">
+            <div className="span7 widget-span widget-type-custom_widget  possibilities-tile serviicebg2 p-5">
+            <div className="flex flex-col items-start justify-between w-full contactboxfor3 lg:pt-18 lg:flex-row">
                <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
                   <div className="relative z-10 flex flex-col items-start justify-start p-10 bg-white shadow-2xl rounded-xl">
                   <h4 className="w-full text-4xl font-Lexend font-bold text-purple-700 leading-snug -mt-6">Let&apos;s Get Started</h4>

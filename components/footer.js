@@ -18,7 +18,7 @@ export default function Footer() {
           d="M0,128L40,122.7C80,117,160,107,240,117.3C320,128,400,160,480,165.3C560,171,640,149,720,165.3C800,181,880,235,960,213.3C1040,192,1120,96,1200,80C1280,64,1360,128,1400,160L1440,192L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"
         ></path>
       </svg>
-      <div className="relative" style={{ backgroundColor: "#3D3D3D" }}>
+      <div className="relative footerelative" style={{ backgroundColor: "#3D3D3D" }}>
         <>
           <div>
             <div className="androidrow">
@@ -256,6 +256,7 @@ export default function Footer() {
               <div className="col-lg-8 buildBox">
                 <div className="right_footer1">
                   <div className="row">
+                    <div className="">
                     <div className="col-lg-3 col-md-3">
                       <div className="f_block f_web">
                         <a
@@ -341,6 +342,7 @@ export default function Footer() {
                           </li>
                         </ul>
                       </div>
+                    </div>
                     </div>
                     <div className="col-lg-4 col-md-4 -ml-12 companyBox">
                       <div className="f_block f_ecommerce">

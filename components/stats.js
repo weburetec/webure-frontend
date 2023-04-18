@@ -6,7 +6,7 @@ import Script from 'next/script';
 export default function Process(props) {
     return (
         <section className="products-section">
-            <div className="container container1">           
+            <div className="container container1 ">           
                 <div className="row-fluid-wrapper row-depth-1 row-number-35 ">
                 <br />
                 <br />
@@ -16,7 +16,7 @@ export default function Process(props) {
                                 <div className="row-fluid ">
                                     <div className="span12 widget-span widget-type-cell container" style={{}} data-widget-type="cell" data-x="0" data-w="12">
                                         <div className="row-fluid-wrapper row-depth-1 row-number-2 ">
-                                            <div className="row-fluid ">
+                                            <div className="row-fluid Boxprosec ">
                                                 <div className="span5 widget-span widget-type-custom_widget left-column" style={{}} data-widget-type="custom_widget" data-x="0" data-w="5">
                                                     <div id="hs_cos_wrapper_module_347529999" className="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style={{}} data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_347529999_" className="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style={{}} data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">
                                                         <span className="hiring font-Lexend text-sm font-semibold">Partner with Us</span>
@@ -60,7 +60,7 @@ export default function Process(props) {
                                                                                 <h4 className="font-Lexend text-2xl font-semibold pb-2">Seemless<br />Communication</h4>
                                                                             </div>
                                                                         </div>
-                                                                        <div className="span4 widget-span widget-type-custom_widget curve3">
+                                                                        <div className="span4 fluidofrow1 widget-span widget-type-custom_widget curve3">
                                                                             <div>
                                                                                 <span>
                                                                                     <img src="https://www.classicinformatics.com/hubfs/transparency-acc.png" alt="consult" />
@@ -93,7 +93,7 @@ export default function Process(props) {
                                                                                 </span>
                                                                                 <h4 className="font-Lexend text-2xl font-semibold pb-2">Top-Tier<br />Talent</h4>                                                                            </div>
                                                                         </div>
-                                                                        <div className="span4 widget-span widget-type-custom_widget">
+                                                                        <div className="span4 fluidofrow1 widget-span widget-type-custom_widget">
                                                                             <div>
                                                                                 <span>
                                                                                     <img src="https://www.classicinformatics.com/hubfs/psot-support.png" alt="consult" />
