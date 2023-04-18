@@ -16,7 +16,7 @@ body{
 
     .ourbox{
     width: 430px;
-    margin-top: 80px;
+    margin-top: -30px;
     margin-left: -10px;
    }
    .emailBox{
@@ -24,7 +24,7 @@ body{
     margin-left: -200px;
    }
   .masthead{
-  width: 500px;
+  width: 450px;
   height: 500px;
   }
 .drivebox{
