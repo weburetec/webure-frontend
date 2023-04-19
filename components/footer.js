@@ -10,6 +10,7 @@ export default function Footer() {
   const navigation = ["Product", "Features", "Pricing", "Company", "Blog"];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
+    <>
     <div className="relative1  relBox">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 225">
         <path
@@ -60,6 +61,8 @@ export default function Footer() {
                   <div className="f_left_new2">
                     <div className="con-blk">
                       <div className="conlinks">
+                      <a className="font-Lexend text-8xl text-[#777777]" href="https://w3nuts.co.uk/contact/">Contact Us</a>
+
                         <a href="mailto:hello@weburetech.com">
                           <span>
                             <svg
@@ -255,7 +258,7 @@ export default function Footer() {
               </div>
               <div className="col-lg-8 buildBox">
                 <div className="right_footer1">
-                  <div className="row">
+                  <div className="row rowBoxInGrid">
                     
                     <div className="col-lg-3 col-md-3">
                       <div className="f_block f_web">
@@ -299,7 +302,7 @@ export default function Footer() {
                         </ul>
                       </div>
                     </div>
-                    <div className="col-lg-4 col-md-4">
+                    <div className="col-lg-4 rowBoxInGrid1 col-md-4">
                       <div className="f_block f_design">
                         <a
                           className="group text-white transition-all duration-300 ease-in-out"
@@ -458,7 +461,7 @@ export default function Footer() {
                   </div>
                   <div className="col-lg-8 ml-3">
                     <div className="right_footer">
-                      <div className="row">
+                      <div className="row right_footer3">
                         <div className="f_block f_ecommerce">
                           <a
                             className="group text-white transition-all duration-300 ease-in-out"
@@ -551,6 +554,12 @@ export default function Footer() {
         </>
       </div>
     </div>
+
+
+
+    
+    </>
+
   );
 }
 

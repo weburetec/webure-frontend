@@ -60,6 +60,7 @@ export default function Footer() {
                   <div className="f_left_new2">
                     <div className="con-blk">
                       <div className="conlinks">
+                        
                         <a href="mailto:hello@weburetech.com">
                           <span>
                             <svg

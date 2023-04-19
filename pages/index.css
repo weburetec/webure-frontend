@@ -119,13 +119,13 @@ margin-left: 50px;
 }
 .left_footer1{
     width: 450px;
-    margin-left: 100px;
+    margin-left: -1px;
    margin-top: 50px;
    margin-bottom: 50px;
 }
 
 .buildBox{
-    margin-left: 230px;
+    margin-left: 135px;
     
 }
 
@@ -135,13 +135,20 @@ margin-left: 50px;
     margin-top: 50px;
 }
 .branchBox{
-    display: grid;
-    margin-top: -120px;
+    
+    margin-top: -80px;
     margin-bottom: 50px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2,1fr);
+
     
 }
 .branchBox1{
-    width: 300px;
+   
+    width: 200px;
+    margin-left: -10px;
+    margin-top: 15px;
 }
 .digitalBox{
     width: 550px;
@@ -153,6 +160,30 @@ margin-left: 50px;
     margin-left: -10px;
     
 }
+
+/* //Footer */
+
+.left_footer1{
+display:flex ;
+}
+.f_left_new2{
+    margin-top: 50px;
+}
+.rowBoxInGrid{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(2,1fr);
+}
+.rowBoxInGrid1{
+    width: 250px;
+    margin-left: -210px;
+}
+.right_footer3{
+    
+    padding-right: -200px;
+    margin-left: 5px;
+}
+
 
 
 /* hiretalent_Page */

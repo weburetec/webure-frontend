@@ -8,6 +8,7 @@ import emailPng from "../assets/png/email.png";
 import mobilePng from "../assets/png/mobile.png";
 import Image from "next/image";
 
+import logoImage from "../assets/png/webure_logo.png";
 const solutions = [
   {name: "Technologies", description: "Get a better understanding of where your traffic is coming from.", href: "/hiretalent", icon: ChartBarIcon,},
   {name: "Clientele", description: "Get a better understanding of where your traffic is coming from.", href: "/clientele", icon: ChartBarIcon,},
@@ -40,6 +41,7 @@ const recentPosts = [
 
 function classNames(...classes) {return classes.filter(Boolean).join(" ");}
 export default function Example() {
+  
   const buttonRef = useRef(null);
   const timeoutDuration = 200;
   let timeout;
@@ -299,7 +301,8 @@ export default function Example() {
               <div className="pt-5 pb-6 px-5">
                 <div className="flex items-center justify-between">
                   <div>
-                    <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="Weburetech"/>
+                    <img className="h-8 w-auto" src="https://www.weburetech.com/static/webure%20logo-d47f989c524a6af3a3d1c63c473f1153.png" alt="Weburetech"/>
+                    {/* <Image  src={logoImage} alt="webure Logo"/> */}
                   </div>
                   <div className="-mr-2">
                     <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset 
