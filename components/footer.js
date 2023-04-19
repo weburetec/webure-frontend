@@ -256,7 +256,7 @@ export default function Footer() {
               <div className="col-lg-8 buildBox">
                 <div className="right_footer1">
                   <div className="row">
-                    <div className="">
+                    
                     <div className="col-lg-3 col-md-3">
                       <div className="f_block f_web">
                         <a
@@ -343,7 +343,7 @@ export default function Footer() {
                         </ul>
                       </div>
                     </div>
-                    </div>
+                  
                     <div className="col-lg-4 col-md-4 -ml-12 companyBox">
                       <div className="f_block f_ecommerce">
                         <a
