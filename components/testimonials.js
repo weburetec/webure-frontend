@@ -10,9 +10,9 @@ export default function Testimonials() {
   return (
     <section id="testimonials" aria-label="What our customers are saying" className="testbox py-10 sm:py-10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl md:text-center">
-          <span className="hiring">TESTIMONIALS</span>
-          <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">Loved by businesses worldwide.</h2>
+        <div className="mx-auto  max-w-2xl md:text-center">
+          <span className="hiring123 hiring">TESTIMONIALS</span>
+          <h2 className="font-display hiringtest text-3xl tracking-tight text-slate-900 sm:text-4xl">Loved by businesses worldwide.</h2>
           <p className="mt-4 font-Lexend text-lg tracking-tight text-slate-700">Webure designs websites with simplicity in mind, which means you spend less time managing your content and more time on higher value work. With our intuitive user interface and help from your dedicated Implementation Manager, you&apos;ll start seeing results in days - not months.</p>
         </div>
         <ul role="list" className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:gap-8 lg:mt-20 lg:max-w-none lg:grid-cols-3">

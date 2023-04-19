@@ -1,5 +1,5 @@
-/* 
-body{
+
+/* body{
     background-color: rgb(213, 248, 248);
 } */
 
@@ -65,9 +65,15 @@ margin-right: -100px;
     border-radius: 20px;
 }
 .hiring{
-    width: 400px;
+    
+    width: 200px;
     display: grid;
     
+}
+.hiring123{
+    margin-left: 170px;
+    width: 130px;
+    display: grid;
 }
 .fluidofrow1{
     display: none !important;
@@ -84,6 +90,7 @@ margin-right: -100px;
     margin-top: 150px;
     margin-left: -120px;
 }
+
 .hs_cos_wrapper1{
     width: 380px;
     margin-left: -150px;
@@ -130,6 +137,7 @@ margin-left: 50px;
 }
 
 .companyBox{
+    /* display: none; */
     width: 450px;
     margin-left: 5px;
     margin-top: 50px;
@@ -160,6 +168,9 @@ margin-left: 50px;
     margin-left: -10px;
     
 }
+.hiringtest{
+    margin-left: 50px;
+}
 
 /* //Footer */
 
@@ -179,9 +190,13 @@ display:flex ;
     margin-left: -210px;
 }
 .right_footer3{
-    
+    display: none;
     padding-right: -200px;
     margin-left: 5px;
+}
+.footerelative{
+    border-radius: 1px;
+    margin-top: -4px;
 }
 
 
@@ -243,6 +258,8 @@ margin-left: -25px;
 }
 
 /* /// Carrer_Page */
+
+
 .whoBox{
    width: 450px;
    

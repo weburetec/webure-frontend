@@ -358,13 +358,13 @@ export default function Footer() {
                           </span>
                         </a>
                         <div className="footerLinks know-us" id="know-us-one">
-                          <ul className="font-Lexend text-lg wrap one grow gap-211">
+                          <ul className="font-Lexend  text-lg wrap one grow gap-211">
                             <li>
                               <a href="/know-us/about-us/" title="About">
                                 About Us
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a href="/know-us/our-team/" title="Our Team">
                                 Our Team
                               </a>
@@ -377,7 +377,7 @@ export default function Footer() {
                                 Referrals
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a href="/blog/" title="Blog" target="_blank">
                                 #GivingBack
                               </a>
@@ -391,7 +391,7 @@ export default function Footer() {
                                 #OurCulture
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a
                                 href="/collab/landlord/"
                                 title="Landlord Partner"
@@ -409,7 +409,7 @@ export default function Footer() {
                                 Contact Us
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a
                                 href="/collab/landlord/"
                                 title="Landlord Partner"
@@ -427,7 +427,7 @@ export default function Footer() {
                                 Case Study
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a
                                 href="/collab/broker/"
                                 title="Broker Partner"
@@ -445,7 +445,7 @@ export default function Footer() {
                                 eBooks
                               </a>
                             </li>
-                            <li>
+                            <li className="ml-10">
                               <a
                                 href="/collab/broker/"
                                 title="Broker Partner"
