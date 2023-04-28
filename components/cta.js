@@ -10,7 +10,7 @@ export default function Cta() {
             <div className="page-center white-text">
               <div className="row-fluid flex-wrap flex-middle">
                 <div className="span8 content">
-                  <div className="content-inner">
+                  <div className="content-inner conth3">
                     <h3 className="font-Lexend text-2xl"><strong>Ready to take control of your contracts?</strong></h3>
                     <p className="font-Lexend text-xl">Start your free trial of Webure Technologies today and see how easy it is to take to your idea to a profitable business.</p>
                   </div>

@@ -1,7 +1,7 @@
 
-/* body{
-    background-color: rgb(213, 248, 248);
-} */
+body{
+    background-color: #e5cdf8;
+}
 
 .contactboxfor{
     margin-top: 50px;
@@ -170,6 +170,10 @@ margin-left: 50px;
 }
 .hiringtest{
     margin-left: 50px;
+}
+.conth3{
+    width: 400px;
+    margin: auto;
 }
 
 /* //Footer */
