@@ -60,9 +60,7 @@ export default function Footer() {
                   </div>
                   <div className="f_left_new2">
                     <div className="con-blk">
-                      <div className="conlinks">
-                      <a className="font-Lexend text-8xl text-[#777777]" href="https://w3nuts.co.uk/contact/">Contact Us</a>
-
+                      <div className="conlinks -pt-27">
                         <a href="mailto:hello@weburetech.com">
                           <span>
                             <svg
