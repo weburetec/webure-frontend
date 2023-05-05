@@ -52,7 +52,7 @@ export default function Example() {
     <header class="fixed bg-white w-full justify-between item-center h-20" mt style={{ zIndex: "100", marginTop: "-120px" }}>
       <Popover className="relative bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          <div className="flex justify-between items-center border-gray-100 py-6 md:justify-start md:space-x-10">
+          <div className="flex justify-between items-center border-gray-100 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1 -ml-11">
               <div className="flex col-2">
                 <div>
@@ -79,11 +79,11 @@ export default function Example() {
           <div className="emailBox flex gap-3 justify-end text-center py-2">
             <div className="flex">
             <Image src={emailPng} alt="webure email"/>
-            <p className="font-Lexend text-base">hi@weburetech.com</p>
+            <p className="font-Lexend text-sm">hi@weburetech.com</p>
             </div>
             <div className="flex">
             <Image src={mobilePng} className="" alt="webure mobile"/>
-            <p className="font-Lexend text-base">+91 803 786 2398</p>
+            <p className="font-Lexend text-sm">+91 803 786 2398</p>
             </div>
           </div>
             <div><hr /></div>
