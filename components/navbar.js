@@ -78,7 +78,7 @@ export default function Example() {
           <div>
           <div className="emailBox flex gap-3 justify-end text-center py-2">
             <div className="flex">
-            <span>
+            <span style={{height:"25px"; width:"25px"}}>
               <Image src={emailPng} className="h-10 w-10" alt="webure email"/>
             </span>
             <p className="font-Lexend text-sm">hi@weburetech.com</p>
