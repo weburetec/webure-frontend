@@ -79,12 +79,12 @@ export default function Example() {
           <div className="emailBox flex gap-3 justify-end text-center py-2">
             <div className="flex">
             <span>
-              <Image src={emailPng} alt="webure email"/>
+              <Image src={emailPng} className="h-10 w-10" alt="webure email"/>
             </span>
             <p className="font-Lexend text-sm">hi@weburetech.com</p>
             </div>
             <div className="flex">
-            <Image src={mobilePng} className="" alt="webure mobile"/>
+            <Image src={mobilePng} className="h-10 w-10" alt="webure mobile"/>
             <p className="font-Lexend text-sm">+91 803 786 2398</p>
             </div>
           </div>
