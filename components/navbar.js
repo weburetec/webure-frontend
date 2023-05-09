@@ -53,7 +53,7 @@ export default function Example() {
       <Popover className="relative bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex justify-between items-center border-gray-100 md:justify-start md:space-x-10">
-            <div className="flex justify-start lg:w-0 lg:flex-1 -ml-11">
+            <div className="flex justify-start lg:w-0 lg:flex-1 -ml-6">
               <div className="flex col-2">
                 <div>
                   <Link href="/">
