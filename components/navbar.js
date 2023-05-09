@@ -98,7 +98,7 @@ export default function Example() {
               </Popover.Button>
             </div>            
             <Popover.Group as="nav" className="hidden md:flex space-x-10" style={{alignItems:"baseline"}}>
-              <div>
+              <div class="px-5">
                 <div class="group inline-block abouthide relative">
                   <button className="text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]">
                     <span className="mr-1 hover-underline-animation font-Lexend text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]" style={{ color: "text-[#581C87]" }}>About Us</span>
@@ -182,7 +182,7 @@ export default function Example() {
                   </div>
                 </div>
               </div>
-              <Popover className=" relative">
+              <Popover className=" relative px-5">
                 {({ open }) => {return (
                 <>
                   <div onMouseLeave={onMouseLeave.bind(null, open)}>
