@@ -278,6 +278,9 @@ export default function Example() {
                       </Popover.Panel>
                     </Transition>
                   </div>
+                  <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+                  <a href="/hiretalent" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Technologies</a>
+                </div>
                 </>
                 );}}
               </Popover>
