@@ -5756,3 +5756,9 @@ textarea125 {
 .header-links li:not(.active):hover span::before {
   background-color: #ccc;
 }
+
+.navbarcontacticonswebure {
+    height: 20px;
+    width: 20px;
+    padding-right: 5px;
+}
