@@ -97,7 +97,7 @@ export default function Example() {
                 <MenuIcon className="h-6 w-6" aria-hidden="true" />
               </Popover.Button>
             </div>            
-            <Popover.Group as="nav" className="hidden md:flex space-x-10" style={{alignItems:"baseline"}}>
+            <Popover.Group as="nav" className="hidden md:flex" style={{alignItems:"baseline"}}>
               <div class="px-5">
                 <div class="group inline-block abouthide relative">
                   <button className="text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]">
