@@ -98,7 +98,7 @@ export default function Example() {
               </Popover.Button>
             </div>            
             <Popover.Group as="nav" className="hidden md:flex" style={{alignItems:"baseline"}}>
-              <div class="px-5">
+              <div class="px-2">
                 <div class="group inline-block abouthide relative">
                   <button className="text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]">
                     <span className="mr-1 hover-underline-animation font-Lexend text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]" style={{ color: "text-[#581C87]" }}>About Us</span>
@@ -182,7 +182,7 @@ export default function Example() {
                   </div>
                 </div>
               </div>
-              <Popover className=" relative px-5">
+              <Popover className=" relative px-2">
                 {({ open }) => {return (
                 <>
                   <div onMouseLeave={onMouseLeave.bind(null, open)}>
@@ -282,19 +282,19 @@ export default function Example() {
                 );}}
               </Popover>
               <div class="flex flex-col sm:flex-row justify-between items-center py-2">
-                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-5">
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="/hiretalent" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Technologies</a>
                 </div>
-                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-5">
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Clientele</a>
                 </div>      
-                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-5">
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
                 </div>  
-                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-5">
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="/career" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Careers</a>
                 </div>       
-                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-5">
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="./contactus" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Contact Us</a>
                 </div>                      
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
