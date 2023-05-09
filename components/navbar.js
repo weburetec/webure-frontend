@@ -287,15 +287,20 @@ export default function Example() {
                 </div>
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
                   <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Clientele</a>
-                </div>                
-  <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
-    <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
-    <a href="/career" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Careers</a>
-    <a href="./contactus" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Contact Us</a>
-    <a href="/login-or-register" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800 mt-4 sm:mt-0">Get a Quote</a>
-  </div>
-</div>
-
+                </div>      
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+                  <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
+                </div>  
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+                  <a href="/career" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Careers</a>
+                </div>       
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+                  <a href="./contactus" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Contact Us</a>
+                </div>                      
+                <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0">
+                  <a href="/login-or-register" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800 mt-4 sm:mt-0">Get a Quote</a>
+                </div>
+            </div>
             </Popover.Group>
           </div>
         </div>
