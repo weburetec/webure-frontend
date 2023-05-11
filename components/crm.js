@@ -22,7 +22,7 @@ export default function CRM() {
                     </div>
                     <div className="span9 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
                         <div class="flex px-2 gap-4 md:px-6 mt-4">
-                            <div class="w-1/2">
+                            <div class="w-2/4">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Frequently Asked Questions</strong></p>
                                     <p class="font-Lexend text-lg font-normal">Look through our Frequently Asked Questions to find the info you need.</p>
