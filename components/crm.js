@@ -25,7 +25,7 @@ export default function CRM() {
                             <div class="w-1/2">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Frequently Asked Questions</strong></p>
-                                    <p class="font-Lexend text-lg font-normal text-justify">Look through our Frequently Asked Questions to find the info you need.</p>
+                                    <p class="font-Lexend text-lg font-normal">Look through our Frequently Asked Questions to find the info you need.</p>
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Call Us</strong></p>
