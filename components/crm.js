@@ -39,7 +39,7 @@ export default function CRM() {
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Email Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email. Our support staff will get back to you ASAP</p><span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">hi@weburetech.com</span>
+                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email at</p><span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">hi@weburetech.com</span><p class="font-Lexend text-lg font-normal">Our support staff will get back to you ASAP</p>
                                 </div> 
                             </div>       
                         </div>
