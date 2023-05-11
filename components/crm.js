@@ -8,10 +8,10 @@ import userThreeImg from "../public/img/user3.jpg";
 
 export default function CRM() {
     return (
-        <section id="crm" aria-label="What our customers are saying" className="py-10 crmBox sm:py-10">
+        <section id="crm" aria-label="What our customers are saying" className="crmBox">
             <div className="container">
-                <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell">
-                    <div className="span5 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
+                <div className="row-fluid row-fluid-wrapper row-depth-1 row-number-7 span12 widget-span widget-type-cell -mt-10">
+                    <div className="span4 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
                         <header className="ContactUs_header__g06x4">
                             <div className="ContactUs_graphic__ZxulU">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="410" height="450" viewBox="0 0 440 612">
@@ -20,8 +20,8 @@ export default function CRM() {
                             </div>
                         </header>
                     </div>
-                    <div className="span9 widget-span widget-type-custom_widget possibilities-tile serviicebg1 p-5">
-                        <div class="flex px-2 gap-4 md:px-6 mt-4">
+                    <div className="span9 widget-span widget-type-custom_widget possibilities-tile serviicebg1">
+                        <div class="flex px-2 gap-4 md:px-6 mt-4 ml-10">
                             <div class="w-2/4">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Frequently Asked Questions</strong></p>
@@ -29,17 +29,17 @@ export default function CRM() {
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Call Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">If you would like to talk to us in person, you can call us at +91 803 786 2398.</p>
+                                    <p class="font-Lexend text-lg font-normal">If you would like to talk to us in person, you can call us at<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">+91 803 786 2398</span></p>
                                 </div>
                             </div>
                             <div class="w-1/2">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Chat with Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">Got a question you need answered right away? We are here for that.</p>
+                                    <p class="font-Lexend text-lg font-normal">Got a question you need answered right away? We are here for that.<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">Click on Chat Now</span></p>
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Email Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email. Our support staff will get back to you ASAP</p>
+                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email. Our support staff will get back to you ASAP<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">hi@weburetech.com</span></p>
                                 </div> 
                             </div>       
                         </div>
