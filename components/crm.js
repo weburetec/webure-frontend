@@ -25,7 +25,7 @@ export default function CRM() {
                             <div class="w-2/4">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Frequently Asked Questions</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">Look through our Frequently Asked Questions to find the info you need.&nbsp;&nbsp;&nbsp;<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">Visit FAQs Page</span></p>
+                                    <p class="font-Lexend text-lg font-normal">Look through our Frequently Asked Questions to find the info you need.&nbsp;<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">Visit FAQs Page</span></p>
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Call Us</strong></p>
@@ -35,11 +35,11 @@ export default function CRM() {
                             <div class="w-1/2">
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Chat with Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">Got a question you need answered right away? We are here for that.</p><span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">Click on Chat Now</span>
+                                    <p class="font-Lexend text-lg font-normal">Got a question you need answered right away? We are here for that.&nbsp;<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">Click on Chat Now</span></p>
                                 </div>
                                 <div class=" bg-white font-normal cursor-pointer rounded-lg border-2 border-gray-300 p-6 m-6 mx-auto max-w-md  ">
                                     <p class="font-Lexend text-lg font-semibold"><strong>Email Us</strong></p>
-                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email at</p><span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">hi@weburetech.com</span><p class="font-Lexend text-lg font-normal">Our support staff will get back to you ASAP</p>
+                                    <p class="font-Lexend text-lg font-normal">You can simply send us an email at&nbsp;<span class="text-white text-sm font-Lexend bg-purple-800 px-2 py-1 rounded-md">hi@weburetech.com</span></p><p class="font-Lexend text-lg font-normal">Our team will connect to you ASAP</p>
                                 </div> 
                             </div>       
                         </div>
