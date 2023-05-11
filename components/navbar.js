@@ -283,13 +283,13 @@ export default function Example() {
               </Popover>
               <div class="flex flex-col sm:flex-row justify-between items-center py-2">
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
-                  <a href="/hiretalent" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Technologies</a>
+                  <a href="/hiretalent" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Hire Talent</a>
                 </div>
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Clientele</a>
                 </div>      
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
-                  <a href="./clientele" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
+                  <a href="./blog" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Insights</a>
                 </div>  
                 <div class="flex flex-col sm:flex-row items-center mt-4 sm:mt-0 px-2">
                   <a href="/career" class="font-Lexend text-base font-medium text-gray-500 hover:text-gray-900 mt-2 sm:mt-0 sm:mr-4">Careers</a>
