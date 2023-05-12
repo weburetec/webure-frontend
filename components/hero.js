@@ -56,7 +56,7 @@ export default function Hero() {
           </div>
         </div>
       </div>
-      <section className="ttm-row zero-padding-section position-relative z-1 clearfix" style={{ margintop: "20px" }}></section>
+      
     </div>
   );
 }
