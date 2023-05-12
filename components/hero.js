@@ -20,11 +20,6 @@ export default function Hero() {
     <div className="masthead  h-[381px] bgcontainer1 bg-[#a7a4a4] relative py-20">
       <div className="container bgcontainer h-100">
         <div className="row">
-          <div className="col-md-3">
-            <div className="left_img">
-              <img src="https://www.karvyinfotech.com/images/banner1.svg" alt="Webure Technologies" />
-            </div>
-          </div>
           <div className="col-mdd-6">
             <h1 className="banner_heading font-Lexend text-2xl">
               <span className="span-txt">Your Ideal IT</span>{" "}
@@ -41,7 +36,7 @@ export default function Hero() {
 </div>
 
           </div>
-          <div className="col-md-3">
+          <div className="col-mdd-6">
           <div className="right_img">
   <img className="img1 hidden sm:block md:block" src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
 </div>
