@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  images: {
-    domains: ["classicinformatics.com", "res.cloudinary.com", "www.karvyinfotech.com", "www.peppercontent.io", "www.webtechnomind.com"],
-  },
+  images: {domains: ["classicinformatics.com", "res.cloudinary.com", "www.karvyinfotech.com", "www.peppercontent.io", "www.webtechnomind.com"],},
 };
 // next.config.js
 const withImages = require('next-images')
