@@ -1,6 +1,4 @@
 import Container from "./container";
-import Slider from 'react-animated-slider';
-import 'react-animated-slider/build/horizontal.css';
 import {
   BookmarkAltIcon,
   CalendarIcon,
@@ -39,20 +37,9 @@ export default function Hero() {
 
           </div>
           <div className="col-mdd-6">
-          
-            <Slider>
-	<img src="https://www.webtechnomind.com/wp-content/uploads/2023/04/app-development.png" />
-	<img src="https://www.webtechnomind.com/wp-content/uploads/2021/11/video-editing-1.png" />
-	<img src="https://www.webtechnomind.com/wp-content/uploads/2023/04/app-development.png" />
-</Slider>
-            
-          </div>
-            
-            
-            
-//            <div className="right_img">
-  //<img className="img1 hidden sm:block md:block" src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
-//</div>
+              <div className="right_img">
+  <img className="img1 hidden sm:block md:block" src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
+</div>
           </div>
         </div>
       </div>
