@@ -38,23 +38,23 @@ export default function Footer() {
                     </div>
                     <ul id="menu-about-w3nuts-1" className="fmainul">
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-517">
-                        <a className="font-Lexend text-4xl text-[#777777]" href="https://w3nuts.co.uk/about-us/">About Us</a>
+                        <a className="font-Lexend text-4xl text-[#777777]" href="">About Us</a>
                       </li>
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-745">
-                        <a className="font-Lexend text-4xl text-[#777777]" href="https://w3nuts.co.uk/collaboration-models/">
+                        <a className="font-Lexend text-4xl text-[#777777]" href="">
                           Collaboration
                         </a>
                       </li>
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-760">
-                        <a className="font-Lexend text-4xl text-[#777777]" href="https://w3nuts.co.uk/hire-dedicated-resources/">
+                        <a className="font-Lexend text-4xl text-[#777777]" href="">
                           Hire Resources
                         </a>
                       </li>
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                        <a className="font-Lexend text-4xl text-[#777777]" href="https://w3nuts.co.uk/blog/">Blog</a>
+                        <a className="font-Lexend text-4xl text-[#777777]" href="">Blog</a>
                       </li>
                       <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-527">
-                        <a className="font-Lexend text-4xl text-[#777777]" href="https://w3nuts.co.uk/contact/">Contact Us</a>
+                        <a className="font-Lexend text-4xl text-[#777777]" href="">Contact Us</a>
                       </li>
                     </ul>
                   </div>
@@ -211,7 +211,7 @@ export default function Footer() {
                         </svg>
                       </a>
                       <a className="hover:animate-bounce"
-                        href="https://www.instagram.com/w3nutsofficial/"
+                        href=""
                         target="_blank" rel="noreferrer"
                       >
                         <svg
@@ -270,32 +270,32 @@ export default function Footer() {
                         </a>
                         <ul id="menu-about-w3nuts-1">
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-517 hover-underline-animationfooter">
-                            <a href="https://w3nuts.co.uk/about-us/">
+                            <a href="">
                               How it Works
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                            <a href="https://w3nuts.co.uk/case-studies/">
+                            <a href="">
                               Why Offshore
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                            <a href="https://w3nuts.co.uk/case-studies/">
+                            <a href="">
                               Why India
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-745">
-                            <a href="https://w3nuts.co.uk/collaboration-models/">
+                            <a href="">
                               Pricing Estimator
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-760">
-                            <a href="https://w3nuts.co.uk/hire-dedicated-resources/">
+                            <a href="">
                               Hire Resources
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                            <a href="https://w3nuts.co.uk/blog/">Blog</a>
+                            <a href="">Blog</a>
                           </li>
                         </ul>
                       </div>
@@ -312,32 +312,32 @@ export default function Footer() {
                         </a>
                         <ul id="menu-design-3" className="">
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
-                            <a href="https://w3nuts.co.uk/web-design/brand-design-agency-uk/">
+                            <a href="">
                               SEO Service
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-459">
-                            <a href="https://w3nuts.co.uk/web-design/ui-ux-services-london/">
+                            <a href="">
                               UI/UX Design
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-460">
-                            <a href="https://w3nuts.co.uk/web-design/service-design-agency-london/">
+                            <a href="">
                               SEM Services
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-461">
-                            <a href="https://w3nuts.co.uk/web-design/website-design-agency-london/">
+                            <a href="">
                               EMail Marketing
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-460">
-                            <a href="https://w3nuts.co.uk/web-design/service-design-agency-london/">
+                            <a href="">
                               Wordpress Develpment
                             </a>
                           </li>
                           <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-461">
-                            <a href="https://w3nuts.co.uk/web-design/website-design-agency-london/">
+                            <a href="">
                               Hubspot Development
                             </a>
                           </li>
@@ -472,32 +472,32 @@ export default function Footer() {
                           <div className="footerLinks know-us" id="know-us-one">
                             <ul className="wrap one grow">
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-462 flex-grow-1">
-                                <a href="https://w3nuts.co.uk/technologies/wearable-app-development/">
+                                <a href="">
                                   Wearable App Development
                                 </a>
                               </li>
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-463">
-                                <a href="https://w3nuts.co.uk/technologies/ar-apps-development/">
+                                <a href="">
                                   AR Apps Development
                                 </a>
                               </li>
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-464">
-                                <a href="https://w3nuts.co.uk/technologies/big-data-services/">
+                                <a href="">
                                   Big Data Services
                                 </a>
                               </li>
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-465">
-                                <a href="https://w3nuts.co.uk/technologies/iot-internet-of-things/">
+                                <a href="">
                                   IOT – Internet of Things
                                 </a>
                               </li>
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-466">
-                                <a href="https://w3nuts.co.uk/technologies/vr-apps-development/">
+                                <a href="">
                                   VR Apps Development
                                 </a>
                               </li>
                               <li className="font-Lexend text-lg menu-item menu-item-type-post_type menu-item-object-page menu-item-467">
-                                <a href="https://w3nuts.co.uk/technologies/chatbot-development/">
+                                <a href="">
                                   Chatbot Development
                                 </a>
                               </li>
