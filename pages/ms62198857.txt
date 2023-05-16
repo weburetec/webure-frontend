@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "weburetech.com",
+  "Id": "50a4f36c-7828-47bb-b67a-29d985ead7fe"
+}
