@@ -33,7 +33,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-MBMB44M8GD"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
