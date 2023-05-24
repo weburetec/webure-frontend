@@ -6,6 +6,8 @@ import { Provider } from "react-redux";
 import { ToastContainer, Zoom } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
+import Script from 'next/script';
+import Router from 'next/router';
 
 import { store } from "../store";
 
