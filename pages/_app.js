@@ -30,17 +30,7 @@ function MyApp({ Component, pageProps }) {
           });
         `}
      </Script>
-     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MBMB44M8GD"></script>
-      <script>
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-MBMB44M8GD');
-        `}
-      </script>
-      <script>
+     <script>
         {`
           window.intercomSettings = {
             api_base: "https://api-iam.intercom.io",
@@ -49,8 +39,7 @@ function MyApp({ Component, pageProps }) {
         `}
       </script>
       <script>
-      // We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/tc2t1dfe'
-      (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/tc2t1dfe';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(document.readyState==='complete'){l();}else if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+        (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/tc2t1dfe';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(document.readyState==='complete'){l();}else if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
       </script>
       
       <Component {...pageProps} />
