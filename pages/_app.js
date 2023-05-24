@@ -32,17 +32,21 @@ function MyApp({ Component, pageProps }) {
      </Script>
      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MBMB44M8GD"></script>
       <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-        gtag('config', 'G-MBMB44M8GD');
+          gtag('config', 'G-MBMB44M8GD');
+        `}
       </script>
       <script>
-        window.intercomSettings = {
-          api_base: "https://api-iam.intercom.io",
-          app_id: "tc2t1dfe"
-        };
+        {`
+          window.intercomSettings = {
+            api_base: "https://api-iam.intercom.io",
+            app_id: "tc2t1dfe"
+          };
+        `}
       </script>
       <script>
       // We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/tc2t1dfe'
