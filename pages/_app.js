@@ -34,6 +34,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <Provider store={store}>
       <>
+        <meta name="google-site-verification" content="qEhm8fazg24i0-X_AyqYDjLn-gLGWioqvW44ad_kySw" />
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${process.env.GOOGLE_ANALYTICS_ID}`} strategy='afterInteractive' />
         <Script id="google-analytics" strategy='afterInteractive'>
           {`
