@@ -20,29 +20,19 @@ axios.defaults.withCredentials = true;
 function MyApp({ Component, pageProps }) {
   return (
     <Provider store={store}>
+      <>
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_MEASUREMENT_ID}`} strategy='afterInteractive' />
+        <Script id="google-analytics" strategy='afterInteractive'>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-    <Head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-
-              gtag('config', '${gtag.GA_TRACKING_ID}', {
-                page_path: window.location.pathname,
-              });
-            `,
-          }}
-        />
-      </Head>
-      {/* Global Site Tag (gtag.js) - Google Analytics */}
-      <Script
-        strategy="afterInteractive"
-        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
-      />
-    
-      <Component {...pageProps} />
+            gtag('config', '${process.env.NEXT_PUBLIC_MEASUREMENT_ID}');
+          `}
+        </Script>
+        <Component {...pageProps} />
+      </>
       <ToastContainer
         theme="colored"
         autoClose={3000}
