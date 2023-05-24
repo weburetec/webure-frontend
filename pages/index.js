@@ -2,7 +2,7 @@ import Head from "next/head";
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 //import SectionTitle from "../components/sectionTitle";
-
+import Script from 'next/script';
 //import { benefitOne, benefitTwo } from "../components/data";
 //import Video from "../components/video";
 //import Benefits from "../components/benefits";
@@ -33,6 +33,15 @@ export default function Home() {
   return (
     <>
       <Head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MBMB44M8GD"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-MBMB44M8GD');
+        </script>
         <title>Webure Technologies - Global Full Service Agency</title>
         <meta
           name="description"
