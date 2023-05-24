@@ -8,6 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import Script from 'next/script';
 import Router from 'next/router';
+import * as gtag from '../lib/gtag'
 
 import { store } from "../store";
 
@@ -19,21 +20,28 @@ axios.defaults.withCredentials = true;
 function MyApp({ Component, pageProps }) {
   return (
     <Provider store={store}>
-      <head>
 
-       <script async src={`"https://www.googletagmanager.com/gtag/js?id=G-C33TW6ZYLR"`}></script>
-<script>
-         {`
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <Head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
 
-  gtag('config', 'G-C33TW6ZYLR');
-`}
-</script>
-       
-       
-      </head>
+              gtag('config', '${gtag.GA_TRACKING_ID}', {
+                page_path: window.location.pathname,
+              });
+            `,
+          }}
+        />
+      </Head>
+      {/* Global Site Tag (gtag.js) - Google Analytics */}
+      <Script
+        strategy="afterInteractive"
+        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
+      />
+    
       <Component {...pageProps} />
       <ToastContainer
         theme="colored"
