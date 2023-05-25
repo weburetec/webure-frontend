@@ -10,7 +10,6 @@ import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Stats from "../components/stats";
-import PopupWidget from "../components/popupWidget";
 //import Products from "../components/products";
 import Services from "../components/services";
 import Process from "../components/process";
@@ -50,7 +49,6 @@ export default function Home() {
       <Testimonials />
       <Cta />
       <Footnote />
-      <PopupWidget />
     </>
   );
 }
