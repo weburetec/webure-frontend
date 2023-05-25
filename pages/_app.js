@@ -47,6 +47,14 @@ function MyApp({ Component, pageProps }) {
         </Script>
         <Component {...pageProps} />
       </>
+      <ToastContainer
+        theme="colored"
+        autoClose={3000}
+        limit={2}
+        transition={Zoom}
+        hideProgressBar={true}
+        position="top-right"
+      />
     </Provider>
   );
 }
