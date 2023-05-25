@@ -45,10 +45,6 @@ function MyApp({ Component, pageProps }) {
             gtag('config', '${process.env.GOOGLE_ANALYTICS_ID}');
           `}
         </Script>
-        <script
-src='//in.fw-cdn.com/30673666/364679.js'
-chat='true'>
-</script>
         <Component {...pageProps} />
       </>
       <ToastContainer
