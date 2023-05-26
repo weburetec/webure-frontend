@@ -227,7 +227,7 @@ export default function Talentprofile() {
                             </td>
                             <td>
                                 <div className="view-pro">
-                                    <a style={{textAlign:"center"}} href="https://www.uplers.com/profiles/rahul-dhangar" target="_blank" rel="noreferrer">View</a>
+                                    <a style={{textAlign:"center"}} href="" target="_blank" rel="noreferrer">View</a>
                                 </div>
                             </td>
                         </tr>
