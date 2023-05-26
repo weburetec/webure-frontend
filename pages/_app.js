@@ -10,7 +10,6 @@ import Script from 'next/script';
 import {useEffect} from 'react';
 import {useRouter} from 'next/router';
 import * as gtag from '../lib/gtag';
-import { IntercomProvider } from '../util/IntercomProvider';
 
 import { store } from "../store";
 
@@ -48,9 +47,6 @@ function MyApp({ Component, pageProps }) {
         </Script>
         <Component {...pageProps} />
       </>
-      <IntercomProvider>
-        <Component {...pageProps} />
-      </IntercomProvider>
       <ToastContainer
         theme="colored"
         autoClose={3000}
