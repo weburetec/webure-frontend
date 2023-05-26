@@ -10,7 +10,7 @@ import Script from 'next/script';
 import {useEffect} from 'react';
 import {useRouter} from 'next/router';
 import * as gtag from '../lib/gtag';
-import { IntercomProvider } from "../util/IntercomProvider";
+import { IntercomProvider } from '../util/IntercomProvider';
 
 import { store } from "../store";
 
