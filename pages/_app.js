@@ -10,6 +10,13 @@ import Script from 'next/script';
 import {useEffect} from 'react';
 import {useRouter} from 'next/router';
 import * as gtag from '../lib/gtag';
+import { Router, Switch, Route, Link } from "react-router-dom";
+import {
+  load as loadIntercom,
+  boot as bootIntercom,
+  update as updateIntercom
+} from "./intercom";
+import { createBrowserHistory } from "history";
 
 import { store } from "../store";
 
@@ -18,7 +25,17 @@ import "./index.css"
 axios.defaults.baseURL = process.env.NEXT_PUBLIC_APP_BASEURL;
 axios.defaults.withCredentials = true;
 
+const history = createBrowserHistory()
+
+history.listen(location => {
+  // Calls Intercom('update') on every page change
+  updateIntercom()
+})
+
 function MyApp({ Component, pageProps }) {
+    loadIntercom()
+    bootIntercom()
+    
     const router = useRouter()
 
     useEffect(() => {
