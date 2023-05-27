@@ -47,6 +47,7 @@ function MyApp({ Component, pageProps }) {
           `}
         </Script>
         <script id="cookieyes" type="text/javascript" src={'https://cdn-cookieyes.com/client_data/bace53ed40481e0ff17df74c/script.js'}></script>
+        <script src={'//in.fw-cdn.com/30673666/364679.js'} chat='true'></script>
         <Component {...pageProps} />
       </>
       <ToastContainer
