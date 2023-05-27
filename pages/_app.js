@@ -24,13 +24,6 @@ import "./index.css"
 axios.defaults.baseURL = process.env.NEXT_PUBLIC_APP_BASEURL;
 axios.defaults.withCredentials = true;
 
-const history = createBrowserHistory()
-
-history.listen(location => {
-  // Calls Intercom('update') on every page change
-  updateIntercom()
-})
-
 function MyApp({ Component, pageProps }) {
     loadIntercom()
     bootIntercom()
