@@ -16,7 +16,6 @@ import {
   boot as bootIntercom,
   update as updateIntercom
 } from "./intercom";
-import { createBrowserHistory } from "history";
 
 import { store } from "../store";
 
