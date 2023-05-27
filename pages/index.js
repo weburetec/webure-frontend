@@ -52,7 +52,7 @@ export default function Home() {
     
     <script>
   window.intercomSettings = {
-    api_base: "https://api-iam.intercom.io",
+    api_base: {'https://api-iam.intercom.io'},
     app_id: "tc2t1dfe"
   };
 </script>
