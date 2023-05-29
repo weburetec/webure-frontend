@@ -29,14 +29,14 @@ export default function Hero() {
               Our heart and soul is only Creativity & Innovation
             </p>
             <br />
-            <p className="lead font-Lexend text-4xl leading-5 px-20">
+            <p className="lead font-Lexend text-6xl leading-5 px-20">
               CONSULT | CREATE | COLLABORATE
             </p>
             <p className="lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
             <ul className="pl-20" style={{display:"-webkit-inline-box"}}>
-               <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
+               <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
