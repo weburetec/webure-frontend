@@ -25,17 +25,17 @@ export default function Hero() {
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
-            <p className="hidden md:block lead font-Lexend text-lg -mt-6 leading-5 px-20">
+            <p className="lead font-Lexend text-lg -mt-6 leading-5 px-20">
               Our heart and soul is only Creativity & Innovation
             </p>
             <br />
-            <p className="hidden md:block lead font-Lexend text-4xl leading-5 px-20">
+            <p className="lead font-Lexend text-4xl leading-5 px-20">
               CONSULT | CREATE | COLLABORATE
             </p>
-            <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
+            <p className="lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
-            <ul className="pl-20" style={{display:"-webkit-inline-box"}}>
+            <ul className="pl-22" style={{display:"-webkit-inline-box"}}>
                <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
