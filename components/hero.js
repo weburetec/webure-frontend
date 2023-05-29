@@ -36,7 +36,7 @@ export default function Hero() {
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
 
-            <div className="hidden md:block btn-get-touch">
+            <div className="hidden md:block btn-get-touch gap-4">
               <button className="btn" data-toggle="modal" data-target="#myModal">
                 Case Studies
               </button>
