@@ -41,23 +41,23 @@ export default function Hero() {
       
 
     
-             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
 
 
              
-             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
 
 
              
-             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/jira.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/jira.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
 
 
              
-             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
 
 
              
-             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
 
 
              
