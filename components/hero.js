@@ -35,18 +35,14 @@ export default function Hero() {
             <p className="lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
-            <ul className="pl-22" style={{display:"-webkit-inline-box"}}>
+            <ul className="pl-20" style={{display:"-webkit-inline-box"}}>
                <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
             </ul>
-
-
-
-
-            <div className="hidden md:block btn-get-touch gap-4">
+            <div className="btn-get-touch">
               <button className="btn" data-toggle="modal" data-target="#myModal">
                 Case Studies
               </button>
