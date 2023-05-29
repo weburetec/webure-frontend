@@ -26,20 +26,19 @@ export default function Hero() {
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
             <p className="hidden md:block lead font-Lexend text-2xl leading-5">
-  Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
-</p>
+              Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
+            </p>
 
-<div className="hidden md:block btn-get-touch">
-  <button className="btn" data-toggle="modal" data-target="#myModal">
-    Get in Our Touch
-  </button>
-</div>
-
+            <div className="hidden md:block btn-get-touch">
+              <button className="btn" data-toggle="modal" data-target="#myModal">
+                Get in Our Touch
+              </button>
+            </div>
           </div>
-          <div className="col-md-3">            
+          <div className="col-mdd-6">            
               <div className="right_img">
-  <img className="img1 hidden sm:block md:block" src="https://www.karvyinfotech.com/images/banner2.svg" alt="Webure Technologies" />
-</div>
+                <img className="img1 hidden sm:block md:block" src="https://www.webtechnomind.com/wp-content/uploads/2023/04/app-development.png" alt="Webure Technologies" />
+              </div>
           </div>
         </div>
       </div>
