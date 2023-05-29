@@ -25,7 +25,10 @@ export default function Hero() {
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
-            <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
+            <p className="hidden md:block lead font-Lexend text-lg -mt-6 underline leading-5 px-20">
+              Our heart and soul is only Creativity & Innovation
+            </p>
+            <p className="hidden md:block lead font-Lexend text-4xl leading-5 px-20">
               CONSULT | CREATE | COLLABORATE
             </p>
             <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
