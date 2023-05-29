@@ -18,9 +18,9 @@ import Image from "next/image";
 export default function Hero() {
   return (
     <div className="masthead  h-[381px] bgcontainer1 bg-[#a7a4a4] relative py-20">
-      <div className="container bgcontainer h-100">
+      <div className="bgcontainer h-100">
         <div className="row">
-          <div className="col-mdd-6">
+          <div className="col-mdd-5 pl-15">
             <h1 className="banner_heading font-Lexend text-2xl">
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
@@ -35,7 +35,7 @@ export default function Hero() {
               </button>
             </div>
           </div>
-          <div className="col-mdd-6 -mt-20">            
+          <div className="col-mdd-8 -mt-20">            
               <div className="right_img">
                 <img className="img1 hidden sm:block md:block" src="https://www.webtechnomind.com/wp-content/uploads/2023/04/app-development.png" alt="Webure Technologies" />
               </div>
