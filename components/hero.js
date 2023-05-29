@@ -44,12 +44,12 @@ export default function Hero() {
                  <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
               </ul>
               <div className="btn-get-touch">
-                <button className="btn" data-toggle="modal" data-target="#myModal">
-                  Case Studies
-                </button>
-                <button className="btn" data-toggle="modal" data-target="#myModal">
-                  Get in Our Touch
-                </button>
+                <div>
+                  <button className="btn" data-toggle="modal" data-target="#myModal">Case Studies</button>
+                </div>
+                <div>
+                  <button className="btn" data-toggle="modal" data-target="#myModal">Get in Our Touch</button>
+                </div>
               </div>
             </div>
           </div>
