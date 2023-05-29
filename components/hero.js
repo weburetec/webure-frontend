@@ -45,13 +45,13 @@ export default function Hero() {
               </ul>
 
               <div className="flex gap-4 px-20 pt-10">
-                <div className="w-1/2">
-                  <div className="p-5 font-Lexend text-lg border-solid text-white bg-[#581C87] border-2 border-[#581C87] hover:bg-white hover:[border-#581C87] hover:text-[#581C87]">
+                <div>
+                  <div className="p-2 font-Lexend text-sm border-solid text-white bg-[#581C87] border-2 border-[#581C87] hover:bg-white hover:[border-#581C87] hover:text-[#581C87]">
                     <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">HIRE DEVELOPERS</a>
                   </div>
                 </div>
-                <div className="w-1/2">
-                  <div className="p-5 font-Lexend text-lg border-solid text-[#581C87] border-2 border-[#581C87] bg-white hover:bg-purple-800 hover:[border-#581C87] hover:text-white">
+                <div>
+                  <div className="p-2 font-Lexend text-sm border-solid text-[#581C87] border-2 border-[#581C87] bg-white hover:bg-purple-800 hover:[border-#581C87] hover:text-white">
                     <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">ROI STORIES</a>
                   </div>
                 </div>
