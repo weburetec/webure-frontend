@@ -44,7 +44,7 @@ export default function Hero() {
                  <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
               </ul>
 
-              <div className="flex gap-4 px-20 pt-10">
+              <div className="flex gap-4 px-20 pt-10" style={{justifyContent:"center"}}>
                 <div>
                   <div className="p-2 font-Lexend text-sm border-solid text-white bg-[#581C87] border-2 border-[#581C87] hover:bg-white hover:[border-#581C87] hover:text-[#581C87]">
                     <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">HIRE DEVELOPERS</a>
