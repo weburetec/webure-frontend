@@ -20,7 +20,7 @@ export default function Hero() {
     <div className="masthead  h-[381px] bgcontainer1 bg-[#a7a4a4] relative py-20">
       <div className="bgcontainer h-100">
         <div className="row">
-          <div className="col-mdd-4 pl-15">
+          <div className="col-mdd-6">
             <h1 className="banner_heading font-Lexend text-2xl">
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
