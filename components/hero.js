@@ -21,11 +21,11 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="row">
           <div className="col-mdd-6">
-            <h1 className="banner_heading font-Lexend text-2xl p-20">
+            <h1 className="banner_heading font-Lexend text-2xl px-20">
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
-            <p className="hidden md:block lead font-Lexend text-2xl leading-5 p-20">
+            <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
 
