@@ -37,10 +37,10 @@ export default function Hero() {
             </p>
             <ul className="pl-20" style={{display:"-webkit-inline-box"}}>
                <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
-               <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
-               <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
-               <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
-               <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
+               <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
+               <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
+               <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
+               <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
             </ul>
 
 
