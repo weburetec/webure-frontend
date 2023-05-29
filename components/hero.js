@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="row">
           <div className="col-mdd-6">
-            <div className="class="border-solid border-2 border-indigo-600">
+            <div className="border-solid border-2 border-indigo-600">
               <h1 className="banner_heading font-Lexend text-2xl px-20">
                 <span className="span-txt">Your Ideal IT</span>{" "}
                 <span style={{ color: "#E60970" }}>Growth Partner</span>
