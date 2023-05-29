@@ -35,7 +35,7 @@ export default function Hero() {
             <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
-            <ul style={{display:"-webkit-inline-box"; }}>
+            <ul style={{display:"-webkit-inline-box"}}>
                <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                <li className="p-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/jira.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
