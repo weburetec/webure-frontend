@@ -35,8 +35,8 @@ export default function Hero() {
               </button>
             </div>
           </div>
-          <div className="col-mdd-6">            
-              <div className="right_img -py-20">
+          <div className="col-mdd-6 -py-20">            
+              <div className="right_img">
                 <img className="img1 hidden sm:block md:block" src="https://www.webtechnomind.com/wp-content/uploads/2023/04/app-development.png" alt="Webure Technologies" />
               </div>
           </div>
