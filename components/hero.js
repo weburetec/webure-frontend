@@ -17,7 +17,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <div className="masthead  h-[381px] bgcontainer1 bg-[#a7a4a4] relative py-20">
+    <div className="masthead  h-[381px] bgcontainer1 relative py-20">
       <div className="bgcontainer h-100">
         <div className="row">
           <div className="col-mdd-6">
@@ -25,6 +25,9 @@ export default function Hero() {
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
+            <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
+              CONSULT | CREATE | COLLABORATE
+            </p>
             <p className="hidden md:block lead font-Lexend text-2xl leading-5 px-20">
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
