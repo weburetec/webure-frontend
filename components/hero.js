@@ -25,9 +25,10 @@ export default function Hero() {
               <span className="span-txt">Your Ideal IT</span>{" "}
               <span style={{ color: "#E60970" }}>Growth Partner</span>
             </h1>
-            <p className="hidden md:block lead font-Lexend text-lg -mt-6 underline leading-5 px-20">
+            <p className="hidden md:block lead font-Lexend text-lg -mt-6 leading-5 px-20">
               Our heart and soul is only Creativity & Innovation
             </p>
+            <br />
             <p className="hidden md:block lead font-Lexend text-4xl leading-5 px-20">
               CONSULT | CREATE | COLLABORATE
             </p>
@@ -36,6 +37,9 @@ export default function Hero() {
             </p>
 
             <div className="hidden md:block btn-get-touch">
+              <button className="btn" data-toggle="modal" data-target="#myModal">
+                Case Studies
+              </button>
               <button className="btn" data-toggle="modal" data-target="#myModal">
                 Get in Our Touch
               </button>
