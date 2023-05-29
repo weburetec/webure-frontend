@@ -36,6 +36,37 @@ export default function Hero() {
               Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
             </p>
 
+
+<ul class="list-inline we-use-platform">
+      
+
+    
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/bitbucket.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+
+
+             
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/github.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+
+
+             
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/jira.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+
+
+             
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/trello.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+
+
+             
+             <li><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy"></li>
+
+
+             
+      
+    </ul>
+
+
+
+
             <div className="hidden md:block btn-get-touch gap-4">
               <button className="btn" data-toggle="modal" data-target="#myModal">
                 Case Studies
