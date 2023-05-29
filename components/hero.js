@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="row">
           <div className="col-mdd-6">
-            <div className="border-solid border-2 border-indigo-600">
+            <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
                 <span className="span-txt">Your Ideal IT</span>{" "}
                 <span style={{ color: "#E60970" }}>Growth Partner</span>
@@ -43,12 +43,17 @@ export default function Hero() {
                  <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
                  <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
               </ul>
-              <div className="btn-get-touch">
-                <div>
-                  <button className="btn" data-toggle="modal" data-target="#myModal">Case Studies</button>
+
+              <div className="flex gap-4 px-20 pt-10">
+                <div className="w-1/2">
+                  <div className="p-5 font-Lexend text-lg border-solid text-white bg-[#581C87] border-2 border-[#581C87] hover:bg-white hover:[border-#581C87] hover:text-[#581C87]">
+                    <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">HIRE DEVELOPERS</a>
+                  </div>
                 </div>
-                <div>
-                  <button className="btn" data-toggle="modal" data-target="#myModal">Get in Our Touch</button>
+                <div className="w-1/2">
+                  <div className="p-5 font-Lexend text-lg border-solid text-[#581C87] border-2 border-[#581C87] bg-white hover:bg-purple-800 hover:[border-#581C87] hover:text-white">
+                    <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">ROI STORIES</a>
+                  </div>
                 </div>
               </div>
             </div>
