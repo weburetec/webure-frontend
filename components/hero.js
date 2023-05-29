@@ -37,7 +37,7 @@ export default function Hero() {
             </p>
 
 
-<ul class="px-20">
+<ul class="px-20" style={'display: inline-block'; 'align-items: center'}>
       
 
     
