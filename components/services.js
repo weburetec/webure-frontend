@@ -109,11 +109,11 @@ export default function Services(props) {
                               linktext="Custom Software Development"
                             >
                               <img
-                                src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=87&amp;name=service-icon1.png"
+                                src="https://res.cloudinary.com/weburetec/image/upload/v1685459181/osjc4imdg8iiftb7j20m.webp"
                                 alt="service-icon1"
                                 width="87"
                                 style={{ width: "87px" }}
-                                srcSet="https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=44&amp;name=service-icon1.png 44w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=87&amp;name=service-icon1.png 87w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=131&amp;name=service-icon1.png 131w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=174&amp;name=service-icon1.png 174w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=218&amp;name=service-icon1.png 218w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=261&amp;name=service-icon1.png 261w"
+                                srcSet="https://res.cloudinary.com/weburetec/image/upload/v1685459181/osjc4imdg8iiftb7j20m.webp?width=44&amp;name=service-icon1.png 44w, https://res.cloudinary.com/weburetec/image/upload/v1685459181/osjc4imdg8iiftb7j20m.webp?width=87&amp;name=service-icon1.png 87w, https://res.cloudinary.com/weburetec/image/upload/v1685459181/osjc4imdg8iiftb7j20m.webp 131w, https://res.cloudinary.com/weburetec/image/upload/v1685459181/osjc4imdg8iiftb7j20m.webp 174w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=218&amp;name=service-icon1.png 218w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon1.png?width=261&amp;name=service-icon1.png 261w"
                                 sizes="(max-width: 87px) 100vw, 87px"
                               />
                               <h3 className="font-Lexend font-semibold mb-3 text-xs">
@@ -155,7 +155,7 @@ export default function Services(props) {
                               rel="noopener"
                             >
                               <img
-                                src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=87&amp;name=service-icon2.png"
+                                src="https://res.cloudinary.com/weburetec/image/upload/v1685459181/ssxk4qrqarx4femt1gba.webp"
                                 alt="service-icon2"
                                 style={{ width: "87px" }}
                                 srcSet="https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=44&amp;name=service-icon2.png 44w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=87&amp;name=service-icon2.png 87w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=131&amp;name=service-icon2.png 131w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=174&amp;name=service-icon2.png 174w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=218&amp;name=service-icon2.png 218w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=261&amp;name=service-icon2.png 261w"
@@ -201,7 +201,7 @@ export default function Services(props) {
                               linktext="Digital Transformation Enabling enterprises to leverage new-gen technologies to improve efficiency &amp; innovate."
                             >
                               <img
-                                src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=87&amp;name=service-icon3.png"
+                                src="https://res.cloudinary.com/weburetec/image/upload/v1685459181/eiayn1hqlm9ovjg8puhk.webp"
                                 alt="service-icon3"
                                 style={{ width: "87px" }}
                                 srcSet="https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=44&amp;name=service-icon3.png 44w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=87&amp;name=service-icon3.png 87w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=131&amp;name=service-icon3.png 131w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=174&amp;name=service-icon3.png 174w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=218&amp;name=service-icon3.png 218w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon3.png?width=261&amp;name=service-icon3.png 261w"
@@ -246,7 +246,7 @@ export default function Services(props) {
                               rel="noopener"
                             >
                               <img
-                                src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=87&amp;name=service-icon4.png"
+                                src="https://res.cloudinary.com/weburetec/image/upload/v1685459181/lhpcwia7bvdo7szytk9q.webp"
                                 alt="service-icon4"
                                 style={{ width: "87px" }}
                                 srcSet="https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=44&amp;name=service-icon4.png 44w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=87&amp;name=service-icon4.png 87w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=131&amp;name=service-icon4.png 131w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=174&amp;name=service-icon4.png 174w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=218&amp;name=service-icon4.png 218w, https://www.classicinformatics.com/hs-fs/hubfs/service-icon4.png?width=261&amp;name=service-icon4.png 261w"
