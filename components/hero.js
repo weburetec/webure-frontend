@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="flex">
           <div className="col-mdd-6">
-            <img style={{width:"68%"}} class="img1 hidden sm:block md:block absolute -mt-28" src="https://res.cloudinary.com/weburetec/image/upload/v1685452535/Group_28_c4idxr.svg" alt="Webure Technologies" />
+            <img style={{width:"66%"}} class="img1 hidden sm:block md:block absolute -mt-28" src="https://res.cloudinary.com/weburetec/image/upload/v1685452535/Group_28_c4idxr.svg" alt="Webure Technologies" />
             <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
                 <span className="span-txt">Your IT</span>{" "}
@@ -46,7 +46,7 @@ export default function Hero() {
                  <li className="px-5"><img src="https://www.webtechnomind.com/wp-content/uploads/2021/10/slack.svg" class="attachment-full size-full" alt="" loading="lazy" /></li>
               </ul>
 
-              <div className="flex gap-4 px-20 pt-10" style={{justifyContent:"center"}}>
+              <div className="flex gap-4 px-20 pt-10" style={{justifyContent:"right"}}>
                 <div>
                   <div className="p-2 font-Lexend text-sm border-solid text-white bg-[#581C87] border-2 border-[#581C87] hover:bg-white hover:[border-#581C87] hover:text-[#581C87]">
                     <a style={{textAlign:"center"}} href="https://www.weburetech.com/contactus" target="_blank" rel="noreferrer">HIRE DEVELOPERS</a>
