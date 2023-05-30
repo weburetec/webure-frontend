@@ -19,7 +19,7 @@ export default function Hero() {
   return (
     <div className="masthead  h-[381px] bgcontainer1 relative py-20">
       <div className="bgcontainer h-100">
-        <div className="row">
+        <div className="flex">
           <div className="col-mdd-6">
             <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
