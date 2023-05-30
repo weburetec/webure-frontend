@@ -30,6 +30,7 @@ export default function Hero() {
                 Our heart and soul is only Creativity & Innovation
               </p>
               <br />
+              <br />
               <h3 className="lead font-Lexend text-6xl leading-5 px-20">
                 CONSULT | CREATE | COLLABORATE
               </h3>
