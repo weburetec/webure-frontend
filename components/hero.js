@@ -31,7 +31,7 @@ export default function Hero() {
               </p>
               <br />
               <br />
-              <p className="banner_heading font-Lexend text-2xl px-20">
+              <p className="font-bold text-center font-Lexend text-5xl px-20">
                 <span style={{ color: "#581C87" }}>CONSULT | CREATE | COLLABORATE</span>
               </p>
               <p className="lead font-Lexend text-2xl leading-5 px-20">
