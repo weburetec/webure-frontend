@@ -21,9 +21,6 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="row">
           <div className="col-mdd-6">
-            <div className="right_img">
-              <img className="img1 hidden sm:block md:block" src="https://res.cloudinary.com/weburetec/image/upload/v1685453734/Group_28_1_xhknqk.svg" alt="Webure Technologies" />
-            </div>
             <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
                 <span className="span-txt">Your IT</span>{" "}
