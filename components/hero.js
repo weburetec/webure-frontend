@@ -57,9 +57,7 @@ export default function Hero() {
                   </div>
                 </div>
               </div>
-            </div>
-            <div className="right_img -mt-20">
-              <img className="img1 hidden sm:block md:block" src="https://res.cloudinary.com/weburetec/image/upload/v1685452535/Group_28_c4idxr.svg" alt="Webure Technologies" />
+              <img className="img1 hidden sm:block md:block -mt-20" src="https://res.cloudinary.com/weburetec/image/upload/v1685452535/Group_28_c4idxr.svg" alt="Webure Technologies" />
             </div>
           </div>
           <div className="col-mdd-6 -mt-20">            
