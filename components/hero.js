@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="bgcontainer h-100">
         <div className="flex">
           <div className="col-mdd-6">
-            <img style={{width:"66%", paddingTop:"20px"}} class="img1 hidden sm:block md:block absolute -mt-28" src="https://res.cloudinary.com/weburetec/image/upload/v1685469755/homepage_banner_ijjowu.svg" alt="Webure Technologies" />
+            <img style={{width:"66%", paddingTop:"20px"}} class="img1 hidden sm:block md:block absolute -mt-28" src="https://res.cloudinary.com/weburetec/image/upload/v1685470701/Homepage_Banner_ibjt37.svg" alt="Webure Technologies" />
             <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
                 <span className="span-txt">Your IT</span>{" "}
