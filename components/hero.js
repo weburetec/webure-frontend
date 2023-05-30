@@ -31,9 +31,9 @@ export default function Hero() {
               </p>
               <br />
               <br />
-              <h3 className="lead font-Lexend text-6xl leading-5 px-20">
-                CONSULT | CREATE | COLLABORATE
-              </h3>
+              <h1 className="banner_heading font-Lexend text-2xl px-20">
+                <span style={{ color: "#581C87" }}>CONSULT | CREATE | COLLABORATE</span>
+              </h1>
               <p className="lead font-Lexend text-2xl leading-5 px-20">
                 Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
               </p>
