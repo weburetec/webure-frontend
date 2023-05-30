@@ -23,16 +23,16 @@ export default function Hero() {
           <div className="col-mdd-6">
             <div>
               <h1 className="banner_heading font-Lexend text-2xl px-20">
-                <span className="span-txt">Your Ideal IT</span>{" "}
-                <span style={{ color: "#E60970" }}>Growth Partner</span>
+                <span className="span-txt">Your IT</span>{" "}
+                <span style={{ color: "#581C87" }}>Growth Partner</span>
               </h1>
               <p className="lead font-Lexend text-lg -mt-6 leading-5 px-20">
                 Our heart and soul is only Creativity & Innovation
               </p>
               <br />
-              <p className="lead font-Lexend text-6xl leading-5 px-20">
+              <h3 className="lead font-Lexend text-6xl leading-5 px-20">
                 CONSULT | CREATE | COLLABORATE
-              </p>
+              </h3>
               <p className="lead font-Lexend text-2xl leading-5 px-20">
                 Either you are a Start-up, Scale-up, or a Big Company - Webure Technologies is always your Best Tech-Partner!
               </p>
