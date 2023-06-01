@@ -229,7 +229,7 @@ export default function Example() {
                                   </div>
                                   <hr class="tw-text-gray-20" />
                                   <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Development</p>
+                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Consult</p>
                                     <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-sm hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-sm hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
@@ -243,7 +243,7 @@ export default function Example() {
                                     <a class="font-Lexend text-base hover-underline-animation tw-text-[13px] tw-font-medium  |  tw-flex tw-items-center  |  tw-mt-auto  |  hover:tw-text-blue-50 focus:tw-text-blue-50" href="/services/">View All Services{" "}<svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="tw-ml-1 tw-p-[1px]"><path d="M1.293 1.707L5.586 6l-4.293 4.293a1 1 0 001.414 1.414l5-5a1 1 0 000-1.414l-5-5a1 1 0 10-1.414 1.414z"fill="currentColor"></path></svg></a>
                                   </div>
                                   <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Top Services</p>
+                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Create</p>
                                     <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-base hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Automotive</a></li>
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-base hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Website Design &amp; UX</a></li>
@@ -257,7 +257,7 @@ export default function Example() {
                                     <a class="font-Lexend text-base hover-underline-animation tw-text-[13px] tw-font-medium  |  tw-flex tw-items-center  |  tw-mt-auto  |  hover:tw-text-blue-50 focus:tw-text-blue-50" href="/services/">View All Services{" "}<svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="tw-ml-1 tw-p-[1px]"><path d="M1.293 1.707L5.586 6l-4.293 4.293a1 1 0 001.414 1.414l5-5a1 1 0 000-1.414l-5-5a1 1 0 10-1.414 1.414z"fill="currentColor"></path></svg></a>
                                   </div>
                                   <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Top Services</p>
+                                    <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Collaborate</p>
                                     <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-base hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Automotive</a></li>
                                       <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-base hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Website Design &amp; UX</a></li>
