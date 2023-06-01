@@ -106,7 +106,7 @@ export default function Example() {
                       <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
                     </svg>
                   </button>
-                  <div className="absolute z-10 w-screen max-w-sm px-4 -ml-28 transform -translate-x-1 sm:px-0 lg:max-w-5xl">
+                  <div className="absolute z-10 w-screen max-w-sm px-4 ml-10 mt-5 transform -translate-x-1/2 left-1/2 sm:px-0 lg:max-w-5xl opacity-100 translate-y-1">
                     <ul class="absolute hidden text-gray-700 pt-1 group-hover:block">
                       <li class="">
                         <div className="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
