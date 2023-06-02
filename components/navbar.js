@@ -186,7 +186,7 @@ export default function Example() {
                 {({ open }) => {return (
                 <>
                   <div onMouseLeave={onMouseLeave.bind(null, open)}>
-                    <Popover.Button ref={buttonRef} className={`${open ? "" : "text-opacity-90"}text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#581C87]`} onMouseEnter={onMouseEnter.bind(null, open)} onMouseLeave={onMouseLeave.bind(null, open)}>
+                    <Popover.Button ref={buttonRef} className={`${open ? "" : "text-opacity-90"} text-white group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900`} onMouseEnter={onMouseEnter.bind(null, open)} onMouseLeave={onMouseLeave.bind(null, open)}>
                       <span class="hover-underline-animation font-Lexend text-base" style={{ color: "text-[#581C87]" }}>Services</span>
                       <ChevronDownIcon className={`${open ? "" : "text-opacity-70"} ml-2 h-5 w-5 text-purple-900 group-hover:text-opacity-80 transition ease-in-out duration-150`} aria-hidden="true"/>
                     </Popover.Button>
