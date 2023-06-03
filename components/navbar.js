@@ -265,7 +265,9 @@ export default function Example() {
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/emailer/">Digital Marketing Automation</a></li>
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/product-descriptions-writing-services/">SaaS Marketing</a></li>
                                       </ul>
-                                    </div>
+                                    </div>                                  
+                                  </div>
+
                                     <div class="lg:tw-border-r tw-border-gray-20  |  tw-flex tw-flex-col tw-gap-2  |  tw-w-full lg:tw-w-[360px]  |  tw-p-3">
                                       <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/writing-services/">
                                         <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12" />
@@ -275,9 +277,9 @@ export default function Example() {
                                         </div>
                                       </a>
                                     </div>
-
                                   
-                                  </div>
+                                  
+                                  
                                 </div>
                               </div>
                             </div>
