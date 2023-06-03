@@ -228,8 +228,8 @@ export default function Example() {
                                     </a>
                                   </div>
                                   <hr class="tw-text-gray-20" />
-                                  <div class="flex">
-                                    <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                  <div class="flex tw-w-full lg:tw-w-[128px] | tw-p-3">
+                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
                                       <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Consult</p>
                                       <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
@@ -242,7 +242,7 @@ export default function Example() {
                                         <li class="navbarmenuli tw-whitespace-wrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/website-banner/">IT Outsourcing</a></li>
                                       </ul>
                                     </div>
-                                    <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
                                       <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Create</p>
                                       <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Web Development</a></li>
@@ -255,7 +255,7 @@ export default function Example() {
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/website-banner/">Frontend Development</a></li>
                                       </ul>
                                     </div>
-                                    <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
                                       <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Collaborate</p>
                                       <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
                                         <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Digital Transformation</a></li>
