@@ -111,60 +111,66 @@ export default function Example() {
                       <li class="">
                         <div className="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
                           <div className="rounded-lg flex-grow shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
-                            <div className="relative flex gap-5 bg-white sm:gap-8">
+                            <div className="relative flex bg-white sm:gap-8">
                               <div>
                                 <div className="tw-flex tw-flex-col lg:tw-flex-row">
                                   <div class="lg:tw-border-r tw-border-gray-20  |  tw-flex tw-flex-col tw-gap-2  |  tw-w-full lg:tw-w-[360px]  |  tw-p-3">
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/design-services/">
-                                      <img src="https://www.peppercontent.io/assets/navigation/design-service-icon.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
+                                      <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">About Us</p>
-                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Our story from the start.</p>
+                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Get anything written from a cover letter or a researched case study.</p>
                                       </div>
                                     </a>
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/writing-services/">
-                                      <img src="https://www.peppercontent.io/assets/navigation/content-writing-icon.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
+                                      <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Our Team</p>
                                         <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Get anything written from a cover letter or a researched case study.</p>
                                       </div>
                                     </a>
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/design-services/">
-                                      <img src="https://www.peppercontent.io/assets/navigation/design-service-icon.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
+                                      <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">ROI Stories</p>
                                         <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Get anything written from a cover letter or a researched case study.</p>
                                       </div>
                                     </a>
                                   </div>
-                                  <div class="flex">
-                                    <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                      <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Development</p>
-                                      <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/emailer/">Data Analytics</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/website-content-writing-services/">Digital Transformation</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/product-descriptions-writing-services/">Managed IT Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-wrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/website-banner/">IT Outsourcing</a></li>
-                                      </ul>
+                                  <div class="flex flex-col">
+                                    <div class="w-96">
+                                      <img class="pt-5 px-5" src="https://www.classicinformatics.com/hubfs/images/gallery_img12.jpg" alt="icon" aria-hidden="true"/>
+                                      <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.</p>
+                                      <div class="ml-10 px-4 pt-2 pb-5 align-middle justify-center">
+                                        <a href="/contactus" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800">Have a Project want to discuss?</a>
+                                      </div>
                                     </div>
-                                    <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                      <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Development</p>
-                                      <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/emailer/">Data Analytics</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/website-content-writing-services/">Digital Transformation</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/product-descriptions-writing-services/">Managed IT Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-wrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/website-banner/">IT Outsourcing</a></li>
-                                      </ul>
+                                    <div class="flex flex-row pl-3 gap-4">
+                                      <div>
+                                        <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
+                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Consulting</p>
+                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                      <div>
+                                        <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
+                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Consulting</p>
+                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
+                                          </ul>
+                                        </div>
+                                      </div>
                                     </div>
                                   </div>
+                                  
                                 </div>
                               </div>
                             </div>
@@ -195,21 +201,21 @@ export default function Example() {
                                       <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12" />
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Real Estate Marketing</p>
-                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Reach the right buyers and tenants with our targeted real estate marketing strategies.</p>
+                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Reach the right buyers with our targeted marketing strategies.</p>
                                       </div>
                                     </a>
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/writing-services/">
                                       <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Digital Marketing Services</p>
-                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Accelerate your business growth with our comprehensive digital marketing solutions.</p>
+                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Accelerate your growth with our comprehensive digital marketing.</p>
                                       </div>
                                     </a>
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/design-services/">
                                       <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
                                       <div class="tw-ml-6">
                                         <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Full Service Marketing Agency</p>
-                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">With a staff of experts in various disciplines, a full service marketing agency can offer you comprehensive strategies</p>
+                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">A full service marketing agency can offer you comprehensive strategies</p>
                                       </div>
                                     </a>
                                     <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/translation-services/">
@@ -219,47 +225,61 @@ export default function Example() {
                                         <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Smart Digital Solutions for Growing SMEs & MSMEs</p>
                                       </div>
                                     </a>
+                                    <div class="ml-6 px-4 pt-2 pb-5 align-middle justify-center">
+                                      <a href="/contactus" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800">Have a Project want to discuss?</a>
+                                    </div>
                                   </div>
                                   <hr class="tw-text-gray-20" />
-                                  <div class="flex tw-w-full lg:tw-w-[128px] | tw-p-3">
-                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                      <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Consult</p>
-                                      <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Building Extended Team</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/emailer/">Data Analytics</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/website-content-writing-services/">Digital Transformation</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/product-descriptions-writing-services/">Managed IT Services</a></li>
-                                        <li class="navbarmenuli tw-whitespace-wrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/website-banner/">IT Outsourcing</a></li>
-                                      </ul>
+                                  <div class="flex flex-col">
+                                    <div class="flex flex-row pl-3 gap-4">
+                                      <div>
+                                        <div class=" px-8 pt-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                          <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Consult</p>
+                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Building Extended Team</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/emailer/">Data Analytics</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/website-content-writing-services/">Digital Transformation</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/product-descriptions-writing-services/">Managed IT Services</a></li>
+                                            <li class="navbarmenuli tw-whitespace-wrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/website-banner/">IT Outsourcing</a></li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                      <div>
+                                        <div class=" px-8 pt-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                          <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Create</p>
+                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Web Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Website Design &amp; UX</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/ads-banner-design-services/">Mobile Apps</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/website-content-translation/">Full Stack Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/emailer/">MVP Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/website-content-writing-services/">Service Marketplace</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/product-descriptions-writing-services/">Software Development</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/website-banner/">Frontend Development</a></li>
+                                          </ul>
+                                        </div>  
+                                      </div>
+                                      <div>
+                                        <div class=" px-8 pt-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
+                                          <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Collaborate</p>
+                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Digital Transformation</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Product Modernization</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/ads-banner-design-services/">B2B Marketing</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/website-content-translation/">Inbound Marketing</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/emailer/">Digital Marketing Automation</a></li>
+                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/product-descriptions-writing-services/">SaaS Marketing</a></li>
+                                          </ul>
+                                        </div>
+                                      </div>
                                     </div>
-                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                      <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Create</p>
-                                      <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Web Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Website Design &amp; UX</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/ads-banner-design-services/">Mobile Apps</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/website-content-translation/">Full Stack Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/emailer/">MVP Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/website-content-writing-services/">Service Marketplace</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/product-descriptions-writing-services/">Software Development</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/website-banner/">Frontend Development</a></li>
-                                      </ul>
+                                    <div class="p-5 w-full">
+                                      <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.</p>
                                     </div>
-                                    <div class=" px-8 py-5 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
-                                      <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Collaborate</p>
-                                      <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/blog-content-translation/">Digital Transformation</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/blog-writing-services/">Product Modernization</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/ads-banner-design-services/">B2B Marketing</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/language-services/website-content-translation/">Inbound Marketing</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/design-services/emailer/">Digital Marketing Automation</a></li>
-                                        <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-blue-50 focus:tw-outline-none focus:tw-text-blue-50" href="/writing-services/product-descriptions-writing-services/">SaaS Marketing</a></li>
-                                      </ul>
-                                    </div>                                  
-                                  </div>                                  
+                                  </div>                                
                                 </div>
                               </div>
                             </div>
