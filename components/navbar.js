@@ -137,7 +137,7 @@ export default function Example() {
                                       </div>
                                     </a>
                                   </div>
-                                  <div>
+                                  <div class="flex">
                                     <div class=" px-8 py-8 tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/3]  |  tw-p-8">
                                       <p class="font-Lexend text-2xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Development</p>
                                       <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
