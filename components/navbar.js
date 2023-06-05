@@ -136,6 +136,13 @@ export default function Example() {
                                         <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Get anything written from a cover letter or a researched case study.</p>
                                       </div>
                                     </a>
+                                    <a class="hover:bg-slate-300 tw-rounded-xl  |  tw-flex tw-items-center  |  tw-py-3 tw-px-3  |  tw-transition-colors hover:tw-text-blue-50 hover:tw-bg-gray-10 focus:tw-outline-none focus:tw-bg-gray-10" href="/design-services/">
+                                      <img src="https://www.peppercontent.io/assets/cmp/navigation/icons/status-up.svg" alt="icon" aria-hidden="true" width="48" height="48" class="tw-w-12 tw-h-12"/>
+                                      <div class="tw-ml-6">
+                                        <p class="font-Lexend text-xl hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Engagement Models</p>
+                                        <p class="font-Lexend text-4xl tw-text-gray-60 tw-text-[13px] tw-leading-[20px]">Leverage best business model that augments your Web and Mobile app solutions.</p>
+                                      </div>
+                                    </a>
                                   </div>
                                   <div class="flex flex-col">
                                     <div class="w-96">
