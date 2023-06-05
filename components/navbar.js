@@ -146,7 +146,7 @@ export default function Example() {
                                   </div>
                                   <div class="flex flex-col">
                                     <div class="w-96">
-                                      <img class="pt-5 px-5" src="https://www.classicinformatics.com/hubfs/images/gallery_img12.jpg" alt="icon" aria-hidden="true"/>
+                                      <img class="pt-5 px-5" src="https://img.freepik.com/free-vector/coding-workshop-concept-illustration_114360-8112.jpg?w=2000" alt="icon" aria-hidden="true"/>
                                       <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.</p>
                                       <div class="ml-10 px-4 pt-2 pb-5 align-middle justify-center">
                                         <a href="/contactus" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800">Have a Project want to discuss?</a>
@@ -155,29 +155,16 @@ export default function Example() {
                                     <div class="flex flex-row pl-3 gap-4">
                                       <div>
                                         <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
-                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Consulting</p>
-                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
-                                          </ul>
+                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">EMail - hi@weburetech.com</p>
                                         </div>
                                       </div>
                                       <div>
                                         <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
-                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Software Consulting</p>
-                                          <ul class="navbarmenuli tw-grid tw-gap-y-2.5 tw-gap-x-4 lg:tw-gap-2 tw-grid-cols-2 lg:tw-grid-cols-1  |  tw-mb-3">
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/blog-content-translation/">Software Development</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/writing-services/blog-writing-services/">Testing &amp; QA</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/design-services/ads-banner-design-services/">Application Services</a></li>
-                                            <li class="navbarmenuli tw-whitespace-nowrap tw-text-ellipsis tw-overflow-hidden"><a class="font-Lexend text-xs hover-underline-animation tw-text-gray-60 hover:tw-text-[#581C87] focus:tw-outline-none focus:tw-text-[#581C87]" href="/language-services/website-content-translation/">UI/UX Design</a></li>
-                                          </ul>
+                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Call - +918037862398</p>
                                         </div>
                                       </div>
                                     </div>
-                                  </div>
-                                  
+                                  </div>                                  
                                 </div>
                               </div>
                             </div>
