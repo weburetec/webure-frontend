@@ -152,18 +152,6 @@ export default function Example() {
                                         <a href="/contactus" class="font-Lexend text-base whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-medium text-white bg-purple-900 hover:bg-purple-800">Have a Project want to discuss?</a>
                                       </div>
                                     </div>
-                                    <div class="flex flex-row pl-3 gap-4">
-                                      <div>
-                                        <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
-                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">EMail - hi@weburetech.com</p>
-                                        </div>
-                                      </div>
-                                      <div>
-                                        <div class="-mt-2 px-2 pb-5  tw-flex tw-flex-col  |  tw-w-full lg:tw-w-[1/2]  |  tw-p-8">
-                                          <p class="font-Lexend text-lg hover-underline-animation tw-text-paragraph-3 tw-font-medium  |  tw-mb-0.5">Call - +918037862398</p>
-                                        </div>
-                                      </div>
-                                    </div>
                                   </div>                                  
                                 </div>
                               </div>
