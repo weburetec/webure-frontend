@@ -261,7 +261,7 @@ export default function Example() {
                                     <div class="p-5 w-full">
                                       <ul>
                                         <li>
-                                          <img class="pt-5 px-5 h-10 w-10" src="https://img.freepik.com/free-vector/coding-workshop-concept-illustration_114360-8112.jpg?w=2000" alt="icon" aria-hidden="true"/>
+                                          <img class="pt-5 px-5 h-10 w-10" src="https://img.icons8.com/?size=1x&id=39853&format=png" alt="icon" aria-hidden="true"/>
                                         </li>
                                       </ul>
                                       <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.</p>
