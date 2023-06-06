@@ -259,12 +259,7 @@ export default function Example() {
                                       </div>
                                     </div>
                                     <div class="p-5 w-full">
-                                      <ul class="px-5">
-                                        <li>
-                                          <img class="h-10 w-10" src="https://res.cloudinary.com/weburetec/image/upload/v1685995243/jhp7p9b2di8nsmy24hpt.png" alt="icon" aria-hidden="true"/>
-                                        </li>
-                                      </ul>
-                                      <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.</p>
+                                      <p class="px-5 pb-2 text-justify font-Lexend text-base">We believe in simplifying lives and making everything better- both for our clients and our team members. Solving real-world problems- one digital solution at a time.As the Top Web & Mobile App Development Company, we invent strategic business logics through the power of Web, Mobile, AI, Cloud, Extended Reality, Big Data, and more</p>
                                     </div>
                                   </div>                                
                                 </div>
