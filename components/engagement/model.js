@@ -2,7 +2,6 @@ import Image from "next/image";
 import React from "react";
 import Container from "../container";
 import { Player, Controls } from '@lottiefiles/react-lottie-player';
-import AskXpert from "../aboutus/askexprt";
 
 export default function EngageModels(props) {  
   return (
