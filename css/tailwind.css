@@ -5762,3 +5762,14 @@ textarea125 {
     width: 20px;
     padding-right: 5px;
 }
+
+.ind_item_1 {
+    display: inline-block;
+    width: 100%;
+    box-shadow: 0 0 2px 1px #eee;
+    margin-bottom: 24px;
+    padding: 18px 0 18px;
+    text-align: center;
+    background-color: azure;
+    border-radius: 30px;
+}
