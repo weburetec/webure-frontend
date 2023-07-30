@@ -28,43 +28,43 @@ export default function Industries() {
                 </div>
               </div>
               <div className="col-md-3">
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="justify-center font-Lexend font-medium">Microfinance and NBFCs</p>
+                  <p className="justify-center font-Lexend font-medium text-white">Microfinance and NBFCs</p>
                 </div>
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="justify-center font-Lexend font-medium">Real Estate</p>
+                  <p className="justify-center font-Lexend font-medium text-white">Real Estate</p>
                 </div> 
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="justify-center font-Lexend font-medium">Manufacturing</p>
+                  <p className="justify-center font-Lexend font-medium text-white">Manufacturing</p>
                 </div>  
               </div>
               <div className="col-md-3">
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span>
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="text-center font-Lexend font-medium">Pharma and Life Sciences</p>
+                  <p className="text-center font-Lexend font-medium text-white">Pharma and Life Sciences</p>
                 </div>
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span>
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="text-center font-Lexend font-medium">Insurance</p>
+                  <p className="text-center font-Lexend font-medium text-white">Insurance</p>
                 </div> 
-                <div className="ind_item_1">
+                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span>
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="text-center font-Lexend font-medium">Automotive</p>
+                  <p className="text-center font-Lexend font-medium text-white">Automotive</p>
                 </div>  
               </div>  
             </div>                          
