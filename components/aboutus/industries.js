@@ -24,7 +24,7 @@ export default function Industries() {
                   <span>
                     <image className="content-center text-center" src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend text-lg leading-6 text-center">Owing to the rise in global customers, brands and competition to sustain, companies of every industry must strengthen themselves by being innovative, technologically updated in order to serve its customers in the best way. Serving its customers in multiple languages, 24 * 7 * 365 customer service, and various time zones and contact channels has become a mandate for any company to sustain the field.<br />Webure, supported by its Technology, Analytical power and Process Excellence methodologies, caters to outsourcing needs of vast array of industries with customized solutions to arrive at better and fruitful results.</p>
+                  <p className="font-Lexend text-lg leading-6 justify-center">Owing to the rise in global customers, brands and competition to sustain, companies of every industry must strengthen themselves by being innovative, technologically updated in order to serve its customers in the best way. Serving its customers in multiple languages, 24 * 7 * 365 customer service, and various time zones and contact channels has become a mandate for any company to sustain the field.<br />Webure, supported by its Technology, Analytical power and Process Excellence methodologies, caters to outsourcing needs of vast array of industries with customized solutions to arrive at better and fruitful results.</p>
                 </div>
               </div>
               <div className="col-md-3">
