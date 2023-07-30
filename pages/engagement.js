@@ -1,10 +1,10 @@
-import Head from "next/head";
+aimport Head from "next/head";
 import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Locations from "../components/location";
-import AboutUs from "../components/aboutus/aboutus";
+import EngageModel from "../components/engagement/model.js";
 import Hero from "../components/hero";
 import Industries from "../components/aboutus/industries";
 import WhyWebure from "../components/aboutus/whywebure";
@@ -24,10 +24,7 @@ export default function EngagementPage() {
       </Head>
       <Navbar />
       <Hero />
-      <AboutUs />
-      <CoreValues />
-      <ValuetabCTA />
-      <WhyWebure />
+      <EngageModel />
       <Industries />
       <Locations />
       <Testimonials />
