@@ -20,7 +20,6 @@ export default function Askxpert(props) {
                 <image className="https://ik.imagekit.io/weburetech/websiteassets/image_117_UuSZ5LW8Z.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1661704372390" sizes="(max-width: 87px) 100vw, 87px" alt="Choose Webure"/>
             </div>           
             <div className='basis-1/3 pt-10'>
-                <p className="font-Lexend text-xl">We believe in demonstrating a strong commitment to sustainable, responsible, honest and transparent business practices. Our highly collaborative and innovative approach turns ideas into viable businesses, helping out clients achieve rich competitive edge and fluency</p>
                 <div className='flex row-fluid'>
                     <div className='basis-1/3'>
                         <image src="https://ik.imagekit.io/weburetech/websiteassets/image_112_9tp03C-b2v.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661704815946" sizes="(max-width: 30px) 100vw, 30px" alt="Choose Webure" />                    
@@ -34,7 +33,6 @@ export default function Askxpert(props) {
                 </div>
             </div>
             <div className='basis-1/3 pt-10'>
-                <p className="font-Lexend text-xl">Our forward-thinking, practical approach turns decisions into actions whilst maintaining flexibility by actively responding to our clients’ variable needs. In addition, our cross-trained workforce embraces the change to deliver in a changing world.<br /><br /></p>
                 <div className='flex row-fluid'>
                     <div className='basis-1/3'>
                         <image src="https://ik.imagekit.io/weburetech/websiteassets/image_114_SWEr6QWWmW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661704815878" sizes="(max-width: 30px) 100vw, 30px" alt="Choose Webure" />                    
