@@ -28,19 +28,19 @@ export default function Industries() {
                 </div>
               </div>
               <div className="col-md-3">
-                <div className="ind_item">
+                <div className="ind_item_1">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
                   <p className="justify-center font-Lexend font-medium">Microfinance and NBFCs</p>
                 </div>
-                <div className="ind_item">
+                <div className="ind_item_1">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
                   <p className="justify-center font-Lexend font-medium">Microfinance and NBFCs</p>
                 </div> 
-                <div className="ind_item">
+                <div className="ind_item_1">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
@@ -48,13 +48,31 @@ export default function Industries() {
                 </div>  
               </div>
               <div className="col-md-3">
-                <div className="ind_item">
+                <div className="ind_item_1">
                   <span>
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
                   <p className="text-center font-Lexend font-medium">Microfinance and NBFCs</p>
                 </div>
               </div>
+
+              <div className="col-md-3">
+                <div className="ind_item_1">
+                  <span>
+                    <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
+                  </span>
+                  <p className="text-center font-Lexend font-medium">Microfinance and NBFCs</p>
+                </div>
+              </div> 
+
+              <div className="col-md-3">
+                <div className="ind_item_1">
+                  <span>
+                    <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
+                  </span>
+                  <p className="text-center font-Lexend font-medium">Microfinance and NBFCs</p>
+                </div>
+              </div>  
             </div>                          
           </div>
         </Container>
