@@ -18,7 +18,7 @@ export default function Different() {
           </div>
           <div>
             <div className="flex">
-              <div className="col-md-6">
+              <div className="col-md-4">
                 <div>
                   <span>
                     <image className="content-center text-center" src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
@@ -26,7 +26,7 @@ export default function Different() {
                   <p className="font-Lexend text-base leading-6 text-justify">Owing to the rise in global customers, brands and competition to sustain, companies of every industry must strengthen themselves by being innovative, technologically updated in order to serve its customers in the best way. Serving its customers in multiple languages, 24 * 7 * 365 customer service, and various time zones and contact channels has become a mandate for any company to sustain the field.<br />Webure, supported by its Technology, Analytical power and Process Excellence methodologies, caters to outsourcing needs of vast array of industries with customized solutions to arrive at better and fruitful results.</p>
                 </div>
               </div>
-              <div className="col-md-3">
+              <div className="col-md-4">
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
@@ -46,7 +46,7 @@ export default function Different() {
                   <p className="justify-center font-Lexend font-medium text-white">Manufacturing</p>
                 </div>  
               </div>
-              <div className="col-md-3">
+              <div className="col-md-4">
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span>
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
