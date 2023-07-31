@@ -74,7 +74,7 @@ export default function EngageModels(props) {
                       </div>
                     </div>
                     <div className="w-full md:w-1/2 xl:w-1/2 px-1">
-                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
+                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690824620/itx5s6vp1mxi14r3h1ff.jpg" src="https://res.cloudinary.com/weburetec/image/upload/v1690824620/itx5s6vp1mxi14r3h1ff.jpg" decoding="async" data-nimg="future" loading="lazy" />
                     </div>
                   </div>
                 </div>
