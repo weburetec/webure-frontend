@@ -55,12 +55,14 @@ export default function EngageModels(props) {
                     <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
                   </div>
                   <div className='col-lg-6 pt-5'>
-                    <p className='font-Lexend font-bold text-3xl text-start'>We Drive Transformation</p>
+                    <p className='font-Lexend font-bold text-xl text-start ml-10'>Dedicated Development Facility Model</p>
                     <image className="-mt-2" src="https://res.cloudinary.com/weburetec/image/upload/v1661627664/LineDesign_e1wjte.svg" sizes="(max-width: 90px) 100vw, 47px" alt="Webure Digital Transformation"/>                    
                     <br />
-                    <p className="font-Lexend text-base leading-6 text-justify -mt-15">In our client&apos;s businesses by embracing a bold spirit of innovation with an unwavering commitment. Our multidisciplinary team implement a dynamic formula of an unmatched combination of perspectives, technology, data, operational know-how to deliver capabilities across sectors globally for a more sustainable tomorrow.</p>
+                    <p className="font-Lexend text-base leading-6 text-justify -mt-15">The dedicated development facility model  is an excellent solution if you need a complete control over human and technical resources involved into the development process. DTM features a high level of transparency, security, flexibility and scalability.</p>
                     <br />
-                    <p className="font-Lexend text-base leading-6 text-justify">Sincere at work, crazy at workplace – we are a bunch of creative people, passionate about technology and curious what we can do with it. Our passion to build great things brought us together and a decade long professional journey has taught us how to build cutting-edge web projects & deliver them on time.</p>
+                    <p className="font-Lexend text-base leading-6 text-justify">Dedicated facility will be your extension of engineering / development center. Through such dedicated facilities, we offer the best skill sets, resources, flexibility and time-to-market advantages to the customers, taking all necessary efforts to protect the Intellectual Property Rights (IPR) of the customers. All rights to the IPR developed in the Development Facility vests with the Customer.</p>
+                    <br />
+                    <p className="font-Lexend text-base leading-6 text-justify">Dedicated Facility also provides a cost effective solution to customers requiring continuous offshore support. For such dedicated relationships, we also implement customer specific quality/process frameworks and teams are trained for the specific needs of a Client. Resources are paid on a retainer basis which is per month billing for resource.</p>
                   </div>
                 </div>
               </div>
