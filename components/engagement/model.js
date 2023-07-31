@@ -22,9 +22,16 @@ export default function EngageModels(props) {
                         <div className="relative rounded-lg overflow-hidden">
                           <div className='justify-center items-center content-center'>
                             <div className='ml-5 justify-center items-center content-center col-span-2'>
-                              <span className="font-Lexend bg-green-100 text-green-800 text-sm font-medium ml-10 mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900 uppercase">Webure Highlights</span>
-                              <p className='font-Lexend font-bold text-xl text-start ml-10'>#1 Ranked Full Service Agency India</p>
-                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Since our inception in 2015, Webure Technologies has been delivering Web Development, Mobile App Development, Software development & Digital Marketing solutions. We combine proven methodologies, business domain knowledge and technology expertise of 23+ skilled software professionals to deliver high quality solutions. <br /> <br />Webure Technologies is a full service agency helping 100+ brands to strategically showcase their business and growing 10X YOY. Beginning around 2015, we have reliably conveyed the cutting edge App, Brand, And Web Marketing Solutions with a substantial effect on your image esteem.<br /><br />We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</p>
+                              <span className="font-Lexend bg-green-100 text-green-800 text-sm font-medium ml-10 mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900 uppercase">Engagement Models</span>
+                              <p className='font-Lexend font-bold text-xl text-start ml-10'>Fixed Cost Engagement Model</p>
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Benefits:-</p>
+                              <ul>
+                                <li>Best-suited for frozen and highly defined requirements</li>
+                                <li>Client pays a fixed price</li>
+                                <li>Minimum exposure to risk</li>
+                                <li>Highly transparent development process</li>
+                              </ul>
+                              <p>The fixed cost and time project model is best suited to projects where there is absolute clarity about the project requirements and specifications. We invite our clients to discuss and define the expected deliverables and timelines for this low risk project execution model and determine the mutually agreed fixed price and timeline. Our processes have been perfectly primed so as to ensure reliability and peak performance that is timely and budget bound.</p>
                             </div>
                           </div>
                         </div>
