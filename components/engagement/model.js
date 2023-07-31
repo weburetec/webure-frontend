@@ -142,7 +142,7 @@ export default function EngageModels(props) {
               <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
                 <div className='row-fluid -mt-5'>
                   <div className='col-lg-6'>
-                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
+                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690824620/cssnalye3fuayshuzoxc.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690824620/cssnalye3fuayshuzoxc.png" decoding="async" data-nimg="future" loading="lazy" />
                   </div>
                   <div className='col-lg-6 pt-5'>
                     <p className='font-Lexend font-bold text-xl text-start'>Offshore Delivery Model</p>
@@ -196,7 +196,7 @@ export default function EngageModels(props) {
               <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
                 <div className='row-fluid -mt-5'>
                   <div className='col-lg-6'>
-                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
+                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690824620/w0ngmu9g8zf63we2fs0p.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690824620/w0ngmu9g8zf63we2fs0p.png" decoding="async" data-nimg="future" loading="lazy" />
                   </div>
                   <div className='col-lg-6 pt-5'>
                     <p className='font-Lexend font-bold text-xl text-start'>Hybrid Delivery Model</p>
