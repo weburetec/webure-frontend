@@ -123,7 +123,61 @@ export default function EngageModels(props) {
             </div>
           </div>
         </div>       
-       </Container>
+        <div>
+          <div className='relative'>
+            <div className="max-w-screen-xl bg-white dark:bg-gray-800 mx-auto relative px-30">
+              <div className='justify-center items-center content-center'>
+                <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
+                  <div className="flex flex-wrap justify-center -mx-4">
+                    <div className="w-full md:w-1/2 xl:w-1/2 px-1">
+                      <div className="w-full mx-auto mb-10">
+                        <div className="relative rounded-lg overflow-hidden">
+                          <div className='justify-center items-center content-center'>
+                            <div className='ml-5 justify-center items-center content-center col-span-2'>
+                              <p className='font-Lexend font-bold text-xl text-start ml-10'>Onsite Delivery Model</p>
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Onsite delivery model entails that skilled Advantal’s professionals are deployed on the client’s premises.</p>
+                              <br />
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">This delivery model is viable only if fluidity is required in a project, if there is need for a specific resource type or if post-deployment support is imperative.</p>
+                              <br />
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">From initial consultation to maintenance and support, our representatives are highly qualified and combine excellent business acumen and strong interpersonal skills.</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="w-full md:w-1/2 xl:w-1/2 px-1">
+                      <image src="https://www.weburetech.com/static/about-img-6-429b32c76fc0e486eda635ad9c82e84b.webp" alt="Webure Digital Transformation"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>    
+        <div className='relative -mt-12'>
+          <div className="max-w-screen-xl bg-white dark:bg-gray-800 mx-auto relative px-30">
+            <div className='justify-center items-center content-center'>
+              <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
+                <div className='row-fluid -mt-5'>
+                  <div className='col-lg-6'>
+                    <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
+                  </div>
+                  <div className='col-lg-6 pt-5'>
+                    <p className='font-Lexend font-bold text-xl text-start'>Hybrid Delivery Model</p>
+                    <image className="-mt-2" src="https://res.cloudinary.com/weburetec/image/upload/v1661627664/LineDesign_e1wjte.svg" sizes="(max-width: 90px) 100vw, 47px" alt="Webure Digital Transformation"/>                    
+                    <br />
+                    <p className="font-Lexend text-base leading-6 text-justify -mt-15">This model, a combination of both onsite and offshore, is the best of both worlds, and results in optimized costs and maximized efficiency.</p>
+                    <br />
+                    <p className="font-Lexend text-base leading-6 text-justify">Onsite team will directly interact with the clients and will serve as consultants, program managers and developers, depending on project requirements. They will do requirement studies, design and development, while interfacing directly with clients.</p>
+                    <br />
+                    <p className="font-Lexend text-base leading-6 text-justify">Offshore outsourcing team will interact only with the onsite team and will provide additional crucial support, thereby reducing costs and implementation time.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </Container>
     </section>
   );
 }
