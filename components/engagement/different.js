@@ -31,14 +31,14 @@ export default function Different() {
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-purple-900 text-lg text-left underline px-5">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-purple-900 text-lg text-left px-5">Unprecedented Quality</p>
                   <p className="font-Lexend text-sm text-purple-900 text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 border-purple-900 hover:border-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-purple-900 text-lg text-left underline px-5">Project Analytical Skills</p>
+                  <p className="font-Lexend font-medium text-purple-900 text-lg text-left px-5">Project Analytical Skills</p>
                   <p className="font-Lexend text-sm text-purple-900 text-justify px-5">Whether you want us to create something from scratch or modernize your digital product with product engineering, our experts will scrutinize each step with logical data, and realistic timescales to keep you informed.</p>
                 </div>
                 <div className="ind_item_1 border-purple-900 hover:border-purple-800">
@@ -69,7 +69,7 @@ export default function Different() {
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
                   <p className="font-Lexend font-medium text-purple-900 text-lg text-left px-5">Fastest Response Time</p>
-                  <p className="font-Lexend text-sm text-purple-900 text-justify px-5">When it comes to our support & maintenance assistance, we offer the fastest and the friendliest technical support covering major locations and time zones with post delivery maintenance and project consultation.</p>
+                  <p className="font-Lexend text-sm text-purple-900 text-justify px-5">When it comes to our support & maintenance assistance, we offer the fastest technical support covering all time zones with post delivery maintenance and project consultation.</p>
                 </div>  
               </div>  
             </div>                          
