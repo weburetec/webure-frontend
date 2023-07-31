@@ -25,7 +25,7 @@ export default function EngageModels(props) {
                               <span className="font-Lexend bg-green-100 text-green-800 text-sm font-medium ml-10 mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900 uppercase">Engagement Models</span>
                               <p className='font-Lexend font-bold text-xl text-start ml-10'>Fixed Cost Engagement Model</p>
                               <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Benefits:-</p>
-                              <ul role="list" class="divide-y divide-gray-100 rounded-md border border-gray-200 px-10">
+                              <ul role="list" class="divide-y divide-gray-100 rounded-md px-10">
                                 <li class="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6">
                                   <div class="flex w-0 flex-1 items-center">
                                     <svg class="h-5 w-5 flex-shrink-0 text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
