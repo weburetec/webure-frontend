@@ -25,13 +25,13 @@ export default function EngageModels(props) {
                               <span className="font-Lexend bg-green-100 text-green-800 text-sm font-medium ml-10 mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900 uppercase">Engagement Models</span>
                               <p className='font-Lexend font-bold text-xl text-start ml-10'>Fixed Cost Engagement Model</p>
                               <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Benefits:-</p>
-                              <ul>
+                              <ul className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">
                                 <li>Best-suited for frozen and highly defined requirements</li>
                                 <li>Client pays a fixed price</li>
                                 <li>Minimum exposure to risk</li>
                                 <li>Highly transparent development process</li>
                               </ul>
-                              <p>The fixed cost and time project model is best suited to projects where there is absolute clarity about the project requirements and specifications. We invite our clients to discuss and define the expected deliverables and timelines for this low risk project execution model and determine the mutually agreed fixed price and timeline. Our processes have been perfectly primed so as to ensure reliability and peak performance that is timely and budget bound.</p>
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">The fixed cost and time project model is best suited to projects where there is absolute clarity about the project requirements and specifications. We invite our clients to discuss and define the expected deliverables and timelines for this low risk project execution model and determine the mutually agreed fixed price and timeline. Our processes have been perfectly primed so as to ensure reliability and peak performance that is timely and budget bound.</p>
                             </div>
                           </div>
                         </div>
