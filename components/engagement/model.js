@@ -74,8 +74,7 @@ export default function EngageModels(props) {
                       </div>
                     </div>
                     <div className="w-full md:w-1/2 xl:w-1/2 px-1">
-                      <img className="px-5" alt="" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
-                      <image src="https://www.weburetech.com/static/about-img-6-429b32c76fc0e486eda635ad9c82e84b.webp" alt="Webure Digital Transformation"/>
+                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                     </div>
                   </div>
                 </div>
@@ -89,7 +88,7 @@ export default function EngageModels(props) {
               <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
                 <div className='row-fluid -mt-5'>
                   <div className='col-lg-6'>
-                    <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
+                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                   </div>
                   <div className='col-lg-6 pt-5'>
                     <p className='font-Lexend font-bold text-xl text-start'>Dedicated Development Engagement Model</p>
@@ -129,7 +128,7 @@ export default function EngageModels(props) {
                       </div>
                     </div>
                     <div className="w-full md:w-1/2 xl:w-1/2 px-1">
-                      <image src="https://www.weburetech.com/static/about-img-6-429b32c76fc0e486eda635ad9c82e84b.webp" alt="Webure Digital Transformation"/>
+                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                     </div>
                   </div>
                 </div>
@@ -143,7 +142,7 @@ export default function EngageModels(props) {
               <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
                 <div className='row-fluid -mt-5'>
                   <div className='col-lg-6'>
-                    <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
+                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                   </div>
                   <div className='col-lg-6 pt-5'>
                     <p className='font-Lexend font-bold text-xl text-start'>Offshore Delivery Model</p>
@@ -183,7 +182,7 @@ export default function EngageModels(props) {
                       </div>
                     </div>
                     <div className="w-full md:w-1/2 xl:w-1/2 px-1">
-                      <image src="https://www.weburetech.com/static/about-img-6-429b32c76fc0e486eda635ad9c82e84b.webp" alt="Webure Digital Transformation"/>
+                      <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                     </div>
                   </div>
                 </div>
@@ -197,7 +196,7 @@ export default function EngageModels(props) {
               <div className='items-center justify-center py-6 md:justify-center md:space-x-10'>
                 <div className='row-fluid -mt-5'>
                   <div className='col-lg-6'>
-                    <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
+                    <img className="px-5" alt="Webure Digital Transformation" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690822035/ahgmowguyamfhyelivkt.png" decoding="async" data-nimg="future" loading="lazy" />
                   </div>
                   <div className='col-lg-6 pt-5'>
                     <p className='font-Lexend font-bold text-xl text-start'>Hybrid Delivery Model</p>
