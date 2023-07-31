@@ -27,7 +27,7 @@ export default function Different() {
                 </div>
               </div>
               <div className="col-md-4">
-                <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
+                <div className="ind_item_1 border-purple-900 hover:border-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
