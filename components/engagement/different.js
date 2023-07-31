@@ -31,21 +31,21 @@ export default function Different() {
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>  
               </div>
@@ -54,21 +54,21 @@ export default function Different() {
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p className="font-Lexend font-medium text-white text-left">Unprecedented Quality</p>
                   <p className="font-Lexend font-medium text-base text-white text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>  
               </div>  
