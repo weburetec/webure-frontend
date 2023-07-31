@@ -55,7 +55,7 @@ export default function EngageModels(props) {
                     <image src="https://res.cloudinary.com/weburetec/image/upload/v1661625213/digital_transformation_yiqxsf.svg" alt="Webure Digital Transformation"/>                    
                   </div>
                   <div className='col-lg-6 pt-5'>
-                    <p className='font-Lexend font-bold text-xl text-start ml-10'>Dedicated Development Facility Model</p>
+                    <p className='font-Lexend font-bold text-xl text-start'>Dedicated Development Facility Model</p>
                     <image className="-mt-2" src="https://res.cloudinary.com/weburetec/image/upload/v1661627664/LineDesign_e1wjte.svg" sizes="(max-width: 90px) 100vw, 47px" alt="Webure Digital Transformation"/>                    
                     <br />
                     <p className="font-Lexend text-base leading-6 text-justify -mt-15">The dedicated development facility model  is an excellent solution if you need a complete control over human and technical resources involved into the development process. DTM features a high level of transparency, security, flexibility and scalability.</p>
