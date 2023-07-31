@@ -27,8 +27,8 @@ export default function Different() {
 
 <div className="flex flex-col items-start justify-between w-full contactboxfor3 lg:pt-18 lg:flex-row">
                <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
-                  <div className="relative z-10 flex flex-col items-start justify-start p-10 bg-white shadow-2xl rounded-xl">
-                  <h4 className="w-full text-4xl font-Lexend font-bold text-purple-700 leading-snug -mt-6">Let&apos;s Get Started</h4>
+                  <div>
+                  <h4 className="w-full text-4xl font-Lexend font-bold text-purple-700 leading-snug -mt-6">Get Started</h4>
                   <p className="font-base text-justify text-gray-500 font-Lexend -mt-6">Scale-up your team, Products or Business with US</p>
                   <form className="relative w-full mt-6 mb-2">
                      <div className="name">
