@@ -112,7 +112,7 @@ export default function EngageModels(props) {
                     <p className='font-Lexend font-bold text-xl text-start'>Offshore Delivery Model</p>
                     <image className="-mt-2" src="https://res.cloudinary.com/weburetec/image/upload/v1661627664/LineDesign_e1wjte.svg" sizes="(max-width: 90px) 100vw, 47px" alt="Webure Digital Transformation"/>                    
                     <br />
-                    <p className="font-Lexend text-base leading-6 text-justify -mt-15">The offshore delivery model entails that all project development, from initial study to testing, is done at Advantal’s premises. This particular model works well in scenarios where the project goals are well defined and deviation from the same is unlikely.</p>
+                    <p className="font-Lexend text-base leading-6 text-justify -mt-15">The offshore delivery model entails that all project development, from initial study to testing, is done at Webure’s premises. This particular model works well in scenarios where the project goals are well defined and deviation from the same is unlikely.</p>
                     <br />
                     <p className="font-Lexend text-base leading-6 text-justify">Management and communication during the course of the project is the responsibility of our program managers – the internal clients, who work with tried and tested methodologies to ensure that delivery is as per schedule.</p>
                     <br />
@@ -135,7 +135,7 @@ export default function EngageModels(props) {
                           <div className='justify-center items-center content-center'>
                             <div className='ml-5 justify-center items-center content-center col-span-2'>
                               <p className='font-Lexend font-bold text-xl text-start ml-10'>Onsite Delivery Model</p>
-                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Onsite delivery model entails that skilled Advantal’s professionals are deployed on the client’s premises.</p>
+                              <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">Onsite delivery model entails that skilled Webure’s professionals are deployed on the client’s premises.</p>
                               <br />
                               <p className="font-Lexend text-base leading-6 text-justify -mt-15 px-10">This delivery model is viable only if fluidity is required in a project, if there is need for a specific resource type or if post-deployment support is imperative.</p>
                               <br />
