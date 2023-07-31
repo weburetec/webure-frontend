@@ -26,11 +26,7 @@ export default function Different() {
               </div>
               <div className="col-md-4">
                 <div className="ind_item_1 border-purple-900 hover:border-purple-800">
-                  <span className="img-containercy">
-                    <div className="overflow-hidden rounded-full bg-slate-50">
-                      <img alt="" srcSet="https://salient.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&amp;w=64&amp;q=75  1x, https://salient.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&amp;w=128&amp;q=75 2x" src="https://salient.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&w=64&q=75" width="56" height="56" decoding="async" data-nimg="future" className="h-14 w-14 object-cover" loading="lazy"/>
-                    </div>
-                  </span>
+                  <img alt="" srcset="https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=87&amp;name=service-icon2.png" src="https://www.classicinformatics.com/hs-fs/hubfs/service-icon2.png?width=87&amp;name=service-icon2.png" width="56" height="56" decoding="async" data-nimg="future" class="h-14 w-14 object-cover" loading="lazy" />
                   <p className="font-Lexend font-medium text-purple-900 text-lg text-left px-5">Unprecedented Quality</p>
                   <p className="font-Lexend text-sm text-purple-900 text-justify px-5">Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
