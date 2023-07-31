@@ -20,7 +20,7 @@ export default function Different() {
             <div className="flex">
               <div className="col-md-4">
                 <div>
-                  <img alt="" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690802857/igbxpthdywdncucjh3ok.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690802857/igbxpthdywdncucjh3ok.png" decoding="async" data-nimg="future" loading="lazy" />
+                  <img className="py-5"  alt="" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690804342/h3j1lkmxyvxnujuqz3jn.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690804342/h3j1lkmxyvxnujuqz3jn.png" decoding="async" data-nimg="future" loading="lazy" />
                 </div>
               </div>
               <div className="col-md-4">
