@@ -31,7 +31,8 @@ export default function Different() {
                   <span className="img-containercy">
                     <image src="https://res.cloudinary.com/ds8lbdapq/image/upload/v1677098839/finans_pi8gjb.png" alt="Microfinance and NBFCs" />
                   </span>
-                  <p className="justify-center font-Lexend font-medium text-white">Microfinance and NBFCs</p>
+                  <p className="justify-center font-Lexend font-medium text-white">Unprecedented Quality</p>
+                  <p>Deploying high-capability software practices for various industries, we ensure the highest quality results and maintenance support, which deliver you an improved return on investment.</p>
                 </div>
                 <div className="ind_item_1 bg-purple-900 hover:bg-purple-800">
                   <span className="img-containercy">
