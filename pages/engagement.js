@@ -4,7 +4,7 @@ import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Locations from "../components/location";
-import EngageModel from "../components/engagement/model.js";
+import EngageModels from "../components/engagement/model.js";
 import Hero from "../components/hero";
 import Industries from "../components/aboutus/industries";
 import WhyWebure from "../components/aboutus/whywebure";
@@ -24,7 +24,7 @@ export default function EngagementPage() {
       </Head>
       <Navbar />
       <Hero />
-      <EngageModel />
+      <EngageModels />
       <Industries />
       <Locations />
       <Testimonials />
