@@ -22,41 +22,31 @@ export default function Different() {
                 <div>
                   <img className="py-5"  alt="" srcset="https://res.cloudinary.com/weburetec/image/upload/v1690804342/h3j1lkmxyvxnujuqz3jn.png" src="https://res.cloudinary.com/weburetec/image/upload/v1690804342/h3j1lkmxyvxnujuqz3jn.png" decoding="async" data-nimg="future" loading="lazy" />
                 </div>
-
-
-
-<div className="flex flex-col items-start justify-between w-full contactboxfor3 lg:pt-18 lg:flex-row">
-               <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
-                  <div>
-                  <h4 className="w-full text-4xl font-Lexend font-bold text-purple-700 leading-snug -mt-6">Get Started</h4>
-                  <p className="font-base text-justify text-gray-500 font-Lexend -mt-6">Scale-up your team, Products or Business with US</p>
-                  <form className="relative w-full mt-6 mb-2">
-                     <div className="name">
-                        <label htmlFor="name"></label>
-                        <input type="text" placeholder="My name is " name="name" id="name_input" required />
-                     </div>
-                     <div className="email">
-                        <label htmlFor="email"></label>
-                        <input type="email" placeholder="My e-mail is" name="email" id="email_input" required />
-                     </div>
-                     <div className="telephone">
-                        <label htmlFor="name"></label>
-                        <input type="text" placeholder="My number is" name="telephone" id="telephone_input" required />
-                     </div>
-                     <div className="relative">
-                        <button className="w-full font-base text-justify   text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
-                     </div>
-                  </form>
-                  </div>
-               </div>
-            </div>
-
-
-
-
-
-
-  
+                <div className="flex flex-col items-start justify-between w-full contactboxfor3 lg:pt-18 lg:flex-row">
+                   <div className="relative z-10 w-full max-w-2xl mt-20 lg:mt-0">
+                      <div>
+                      <h4 className="w-full text-4xl font-Lexend font-bold text-purple-700 leading-snug -mt-6">Get Started</h4>
+                      <p className="font-base text-justify text-gray-500 font-Lexend -mt-6">Scale-up your team, Products or Business with US</p>
+                      <form className="relative w-full mt-6 mb-2">
+                         <div className="name">
+                            <label htmlFor="name"></label>
+                            <input type="text" placeholder="My name is " name="name" id="name_input" required />
+                         </div>
+                         <div className="email">
+                            <label htmlFor="email"></label>
+                            <input type="email" placeholder="My e-mail is" name="email" id="email_input" required />
+                         </div>
+                         <div className="telephone">
+                            <label htmlFor="name"></label>
+                            <input type="text" placeholder="My number is" name="telephone" id="telephone_input" required />
+                         </div>
+                         <div className="relative">
+                            <button className="w-full font-base text-justify   text-gray-500 font-Lexend btn btn-deep-pink float-left sm-float-none">Submit</button>
+                         </div>
+                      </form>
+                      </div>
+                   </div>
+                </div>  
               </div>
               <div className="col-md-4">
                 <div className="ind_item_1 border-purple-900 hover:border-purple-800">
